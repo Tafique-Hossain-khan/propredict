@@ -1,0 +1,1430 @@
+price,dispaly_res_type,os,processor_brand,connectivity_feature,ram,internal_storgar,mobile_brand,dispaly_size_in_inches,back_camera,front_camera,Battery_Category
+65999,other,Android 13,other,5,12,128,other,6,50.0,10.8,4000-5000
+39999,Full HD+,Android 13,other,5,8,128,other,6,64.0,13.0,4000-5000
+39999,Full HD+,Android 13,other,5,8,128,other,6,64.0,13.0,4000-5000
+39999,Full HD+,Android 13,other,5,8,128,other,6,64.0,13.0,4000-5000
+46999,Full HD+,Android 13,other,5,8,128,other,6,50.0,10.8,4000-5000
+46999,Full HD+,Android 13,other,5,8,128,other,6,50.0,10.8,4000-5000
+46999,Full HD+,Android 13,other,5,8,128,other,6,50.0,10.8,4000-5000
+82999,Full HD+,Android 14,other,5,8,256,other,6,50.0,10.5,4000-5000
+75999,Full HD+,Android 14,other,5,8,128,other,6,50.0,10.5,4000-5000
+75999,Full HD+,Android 14,other,5,8,128,other,6,50.0,10.5,4000-5000
+75999,Full HD+,Android 14,other,5,8,128,other,6,50.0,10.5,4000-5000
+75999,Full HD+,Android 14,other,5,8,128,other,6,50.0,10.5,4000-5000
+65999,other,Android 13,other,5,12,128,other,6,50.0,10.8,4000-5000
+106999,Full HD+ AMOLED Display,Android 14,other,5,12,128,other,6,50.0,10.5,5000-6000
+106999,Full HD+ AMOLED Display,Android 14,other,5,12,128,other,6,50.0,10.5,5000-6000
+65999,other,Android 13,other,5,12,128,other,6,50.0,10.8,4000-5000
+113999,Full HD+ AMOLED Display,Android 14,other,5,12,256,other,6,50.0,10.5,5000-6000
+43999,Full HD+,Android 12,other,5,6,128,other,6,12.2,8.0,4000-5000
+43999,Full HD+,Android 12,other,5,6,128,other,6,12.2,8.0,4000-5000
+80000,Full HD+,other,Snapdragon,4,4,128,other,5,12.2,14.093100833965124,<3000
+12990,Full HD,Android 11,Mediatek,4,8,256,other,6,48.0,25.0,4000-5000
+12990,Full HD,Android 11,Mediatek,5,8,128,other,6,48.0,14.093100833965124,4000-5000
+12990,Full HD,Android 11,Mediatek,4,8,256,other,6,48.0,14.093100833965124,4000-5000
+19999,Full HD+,other,other,4,4,64,Honor,5,16.0,14.093100833965124,3000-4000
+24785,Full HD+,Android 13,Snapdragon,5,8,256,Honor,6,108.0,16.0,5000-6000
+27999,Full HD+,Android 13,Snapdragon,5,8,256,Honor,6,108.0,16.0,5000-6000
+16999,Full HD+,other,other,4,4,64,Honor,5,13.0,14.093100833965124,<3000
+13999,Full HD+,other,other,4,3,32,Honor,5,13.0,14.093100833965124,<3000
+13999,Full HD+,other,other,4,3,32,Honor,5,13.0,14.093100833965124,<3000
+13999,Full HD+,other,other,4,3,32,Honor,5,13.0,14.093100833965124,<3000
+18999,Full HD+,other,other,4,6,64,Honor,6,13.0,24.0,3000-4000
+16999,Full HD+,other,other,4,4,64,Honor,6,13.0,24.0,3000-4000
+10499,HD,other,other,4,2,16,Honor,5,13.0,8.0,<3000
+35999,Full HD+,other,other,4,6,128,Honor,5,24.0,24.0,3000-4000
+35999,Full HD+,other,other,4,6,128,Honor,5,24.0,24.0,3000-4000
+25999,Full HD+,other,other,4,6,64,Honor,6,16.0,16.0,3000-4000
+25990,Full HD+,other,other,4,6,128,other,6,24.0,32.0,3000-4000
+17999,Full HD+,other,other,4,4,64,Honor,6,20.0,16.0,3000-4000
+17999,Full HD+,other,other,4,4,64,Honor,6,20.0,16.0,3000-4000
+13999,HD,other,other,4,3,32,Honor,5,13.0,8.0,<3000
+10499,HD,other,other,4,2,16,Honor,5,13.0,8.0,<3000
+10499,HD,other,other,4,2,16,Honor,5,13.0,8.0,<3000
+29999,other,other,other,4,6,128,Honor,5,12.0,8.0,3000-4000
+29999,other,other,other,4,6,128,Honor,5,12.0,8.0,3000-4000
+13999,Full HD,other,other,4,4,64,Honor,5,12.0,8.0,3000-4000
+13999,Full HD,other,other,4,4,64,Honor,5,12.0,8.0,3000-4000
+11999,Full HD,other,other,4,3,32,Honor,5,12.0,8.0,3000-4000
+14999,Full HD+,other,other,4,4,64,Honor,5,16.0,14.093100833965124,3000-4000
+13999,HD,other,other,4,3,32,Honor,5,12.0,8.0,3000-4000
+9999,Full HD,other,other,4,3,32,Honor,5,12.0,8.0,3000-4000
+8999,Full HD,other,other,4,3,32,Honor,5,12.0,8.0,3000-4000
+7599,HD,other,other,4,3,32,Honor,5,13.0,8.0,<3000
+4400,HD,other,other,4,1,8,Honor,5,8.0,2.0,<3000
+10999,HD,other,other,4,3,32,Honor,5,13.0,8.0,<3000
+19990,Full HD+,other,other,4,4,128,other,6,16.0,16.0,3000-4000
+19990,Full HD+,other,other,4,4,128,other,6,16.0,16.0,3000-4000
+16999,Full HD+,other,other,4,4,64,Honor,5,13.0,14.093100833965124,<3000
+10000,Full HD+,other,other,4,4,64,Honor,5,13.0,14.093100833965124,<3000
+12999,Full HD,other,Snapdragon,4,2,16,Honor,5,13.0,5.0,<3000
+25999,Full HD+,other,other,4,6,64,Honor,6,16.0,16.0,3000-4000
+16999,Full HD+,other,other,4,4,128,Honor,6,24.0,32.0,3000-4000
+16999,Full HD+,other,other,4,4,128,Honor,6,24.0,32.0,3000-4000
+16999,Full HD+,other,other,4,4,128,Honor,6,24.0,32.0,3000-4000
+21999,Full HD+,other,other,4,4,64,Honor,6,16.0,16.0,3000-4000
+21999,Full HD+,other,other,4,4,64,Honor,6,16.0,16.0,3000-4000
+10499,HD,other,Snapdragon,4,2,8,Honor,5,13.0,5.0,<3000
+9999,HD,other,Snapdragon,4,2,8,Honor,5,13.0,5.0,<3000
+9999,HD,other,Snapdragon,4,2,8,Honor,5,13.0,5.0,<3000
+14999,HD+,other,Snapdragon,4,4,64,Honor,6,13.0,8.0,3000-4000
+14999,HD+,other,Snapdragon,4,4,64,Honor,6,13.0,8.0,3000-4000
+14500,Full HD+,other,other,4,4,32,Honor,5,16.0,8.0,3000-4000
+14500,Full HD+,other,other,4,4,32,Honor,5,16.0,8.0,3000-4000
+19999,Full HD+,other,other,4,6,128,Honor,6,48.0,16.0,3000-4000
+19999,Full HD+,other,other,4,6,128,Honor,6,48.0,16.0,3000-4000
+15999,Full HD+,other,other,4,4,128,Honor,6,48.0,16.0,3000-4000
+13999,Full HD+,other,other,4,3,32,Honor,6,13.0,24.0,3000-4000
+13999,Full HD+,other,other,4,3,32,Honor,6,13.0,24.0,3000-4000
+6999,Full HD,other,Snapdragon,4,2,16,Honor,5,13.0,5.0,<3000
+11099,Full HD,other,Mediatek,4,4,64,Honor,5,12.0,8.0,<3000
+14999,Full HD+,other,other,4,4,64,Honor,6,13.0,24.0,3000-4000
+7499,Full HD,other,Snapdragon,4,2,16,Honor,5,13.0,5.0,<3000
+13999,Full HD+,other,other,4,6,64,Honor,6,13.0,24.0,3000-4000
+8699,HD+,Android 13,Mediatek,4,8,128,Infinix,6,50.0,8.0,4000-5000
+7099,HD+,Android 13,Mediatek,4,4,64,Infinix,6,50.0,8.0,4000-5000
+8699,HD+,Android 13,Mediatek,4,8,128,Infinix,6,50.0,8.0,4000-5000
+7099,HD+,Android 13,Mediatek,4,4,64,Infinix,6,50.0,8.0,4000-5000
+7099,HD+,Android 13,Mediatek,4,4,64,Infinix,6,50.0,8.0,4000-5000
+7099,HD+,Android 13,Mediatek,4,4,64,Infinix,6,50.0,8.0,4000-5000
+8699,HD+,Android 13,Mediatek,4,8,128,Infinix,6,50.0,8.0,4000-5000
+8699,HD+,Android 13,Mediatek,4,8,128,Infinix,6,50.0,8.0,4000-5000
+6399,HD+,Android 13,other,4,3,64,Infinix,6,13.0,8.0,4000-5000
+6399,HD+,Android 13,other,4,3,64,Infinix,6,13.0,8.0,4000-5000
+6399,HD+,Android 13,other,4,3,64,Infinix,6,13.0,8.0,4000-5000
+6399,HD+,Android 13,other,4,3,64,Infinix,6,13.0,8.0,4000-5000
+7799,HD+,Android 12,other,4,4,128,Infinix,6,13.0,5.0,5000-6000
+7799,HD+,Android 12,other,4,4,128,Infinix,6,13.0,5.0,5000-6000
+7799,HD+,Android 12,other,4,4,128,Infinix,6,13.0,5.0,5000-6000
+7499,HD+,Android 12,other,4,4,64,Infinix,6,13.0,5.0,5000-6000
+7499,HD+,Android 12,other,4,4,64,Infinix,6,13.0,5.0,5000-6000
+7499,HD+,Android 12,other,4,4,64,Infinix,6,13.0,5.0,5000-6000
+6199,HD+,Android 12,other,4,2,64,Infinix,6,8.0,5.0,4000-5000
+6199,HD+,Android 12,other,4,2,64,Infinix,6,8.0,5.0,4000-5000
+6199,HD+,Android 12,other,4,2,64,Infinix,6,8.0,5.0,4000-5000
+6199,HD+,Android 12,other,4,2,64,Infinix,6,8.0,5.0,4000-5000
+6999,HD+,other,Mediatek,4,2,16,Infinix,5,13.0,8.0,3000-4000
+7499,HD+,Android 11,Mediatek,4,2,64,Infinix,6,8.0,5.0,4000-5000
+7499,HD+,Android 11,Mediatek,4,2,64,Infinix,6,8.0,5.0,4000-5000
+7499,HD+,Android 11,Mediatek,4,2,64,Infinix,6,8.0,5.0,4000-5000
+6999,HD+,Android 11,Mediatek,4,2,32,Infinix,6,8.0,5.0,4000-5000
+7199,HD+,Android 11,Mediatek,4,2,32,Infinix,6,8.0,8.0,4000-5000
+8299,HD+,Android 12,Mediatek,4,3,64,Infinix,6,8.0,5.0,4000-5000
+8299,HD+,Android 12,Mediatek,4,3,64,Infinix,6,8.0,5.0,4000-5000
+10999,Full HD+,other,Mediatek,4,3,32,Infinix,5,12.0,16.0,4000-5000
+7499,HD+,Android 10,Mediatek,4,2,32,Infinix,6,13.0,8.0,5000-6000
+7499,HD+,Android 10,Mediatek,4,2,32,Infinix,6,13.0,8.0,5000-6000
+9999,HD+,Android 10,Mediatek,4,3,32,Infinix,6,13.0,8.0,5000-6000
+9999,HD+,Android 10,Mediatek,4,3,32,Infinix,6,13.0,8.0,5000-6000
+9999,HD+,Android 10,Mediatek,4,3,32,Infinix,6,13.0,8.0,5000-6000
+10999,HD+,Android 11,Mediatek,4,6,64,Infinix,6,48.0,8.0,5000-6000
+7999,HD+,other,Mediatek,4,2,32,Infinix,6,13.0,8.0,3000-4000
+7999,HD+,other,Mediatek,4,3,32,Infinix,5,13.0,8.0,3000-4000
+7999,HD+,other,Mediatek,4,3,32,Infinix,5,13.0,8.0,3000-4000
+7499,HD+,Android 10,Mediatek,4,2,32,Infinix,6,13.0,8.0,5000-6000
+6499,HD+,Android 10,Mediatek,4,2,32,Infinix,6,8.0,5.0,4000-5000
+7799,HD+,Android 13,Mediatek,4,4,128,Infinix,6,50.0,8.0,5000-6000
+7799,HD+,Android 13,Mediatek,4,4,128,Infinix,6,50.0,8.0,5000-6000
+7799,HD+,Android 13,Mediatek,4,4,128,Infinix,6,50.0,8.0,5000-6000
+6999,HD+,other,Mediatek,4,2,16,Infinix,5,13.0,8.0,3000-4000
+6999,HD+,Android 11,Mediatek,4,2,32,Infinix,6,8.0,5.0,4000-5000
+7499,HD+,Android 11,Mediatek,4,2,64,Infinix,6,8.0,5.0,4000-5000
+6999,HD+,Android 11,Mediatek,4,2,32,Infinix,6,8.0,5.0,4000-5000
+7199,HD+,Android 11,Mediatek,4,2,32,Infinix,6,8.0,8.0,4000-5000
+7499,HD+,Android 10,Mediatek,4,2,32,Infinix,6,13.0,8.0,5000-6000
+7199,HD+,Android 11,Mediatek,4,2,32,Infinix,6,8.0,8.0,4000-5000
+10999,HD+,Android 11,Mediatek,4,6,64,Infinix,6,48.0,8.0,5000-6000
+8299,HD+,Android 12,Mediatek,4,3,64,Infinix,6,8.0,5.0,4000-5000
+9999,HD+,Android 10,Mediatek,4,3,32,Infinix,6,13.0,8.0,5000-6000
+7999,HD+,other,Mediatek,4,2,32,Infinix,6,13.0,8.0,3000-4000
+7999,HD+,other,Mediatek,4,2,32,Infinix,6,13.0,8.0,3000-4000
+6499,HD+,Android 10,Mediatek,4,2,32,Infinix,6,8.0,5.0,4000-5000
+7490,HD+,Android 10,Mediatek,4,2,32,Infinix,6,13.0,8.0,5000-6000
+7490,HD+,Android 10,Mediatek,4,2,32,Infinix,6,13.0,8.0,5000-6000
+7490,HD+,Android 10,Mediatek,4,2,32,Infinix,6,13.0,8.0,5000-6000
+11999,HD+,Android 14,Snapdragon,5,8,128,Motorola,6,50.0,16.0,4000-5000
+11999,HD+,Android 14,Snapdragon,5,8,128,Motorola,6,50.0,16.0,4000-5000
+13999,Full HD+,Android 13,Mediatek,5,8,128,Motorola,6,50.0,16.0,5000-6000
+7999,HD+,Android 14,Mediatek,4,4,128,Motorola,6,50.0,16.0,5000-6000
+13999,Full HD+,Android 13,Mediatek,5,8,128,Motorola,6,50.0,16.0,5000-6000
+15999,Full HD+,Android 13,Mediatek,5,12,256,Motorola,6,50.0,16.0,5000-6000
+15999,Full HD+,Android 13,Mediatek,5,12,256,Motorola,6,50.0,16.0,5000-6000
+17999,Full HD+,Android 13,Snapdragon,5,12,256,Motorola,6,50.0,16.0,4000-5000
+10999,HD+,Android 14,Snapdragon,5,4,128,Motorola,6,50.0,16.0,4000-5000
+10999,HD+,Android 14,Snapdragon,5,4,128,Motorola,6,50.0,16.0,4000-5000
+22999,Full HD+,Android 13,Mediatek,5,8,128,Motorola,6,50.0,32.0,4000-5000
+7999,HD+,Android 14,Mediatek,4,4,128,Motorola,6,50.0,16.0,5000-6000
+13999,Full HD+,Android 13,Mediatek,5,8,128,Motorola,6,50.0,16.0,5000-6000
+10999,HD+,Android 14,Snapdragon,5,4,128,Motorola,6,50.0,16.0,4000-5000
+6499,HD+,Android 13,other,4,4,64,Motorola,6,13.0,5.0,4000-5000
+6999,HD+,Android 14,other,4,4,64,Motorola,6,16.0,5.0,4000-5000
+17999,Full HD+,Android 13,Snapdragon,5,12,256,Motorola,6,50.0,16.0,4000-5000
+8999,HD+,Android 14,Mediatek,4,8,128,Motorola,6,50.0,16.0,5000-6000
+8999,HD+,Android 14,Mediatek,4,8,128,Motorola,6,50.0,16.0,5000-6000
+22999,Full HD+,Android 13,Mediatek,5,8,128,Motorola,6,50.0,32.0,4000-5000
+7499,HD+,Android 13,other,4,8,128,Motorola,6,13.0,5.0,4000-5000
+6999,HD+,Android 14,other,4,4,64,Motorola,6,16.0,5.0,4000-5000
+9999,Full HD+,Android 12,Snapdragon,4,8,128,Motorola,6,50.0,16.0,4000-5000
+9999,Full HD+,Android 12,Snapdragon,4,8,128,Motorola,6,50.0,16.0,4000-5000
+15999,Full HD+,Android 13,Mediatek,5,12,256,Motorola,6,50.0,16.0,5000-6000
+6999,HD+,Android 14,other,4,4,64,Motorola,6,16.0,5.0,4000-5000
+7999,HD+,Android 14,other,4,8,128,Motorola,6,16.0,5.0,4000-5000
+7999,HD+,Android 14,other,4,8,128,Motorola,6,16.0,5.0,4000-5000
+22999,Full HD+,Android 13,Mediatek,5,8,128,Motorola,6,50.0,32.0,4000-5000
+7999,HD+,Android 14,other,4,8,128,Motorola,6,16.0,5.0,4000-5000
+7499,HD+,Android 13,other,4,8,128,Motorola,6,13.0,5.0,4000-5000
+7999,HD+,Android 14,Mediatek,4,4,128,Motorola,6,50.0,16.0,5000-6000
+9999,Full HD+,Android 12,Snapdragon,4,8,128,Motorola,6,50.0,16.0,4000-5000
+7999,HD+,Android 14,other,4,8,128,Motorola,6,16.0,5.0,4000-5000
+8499,Full HD+,Android 13,other,4,4,128,Motorola,6,50.0,8.0,4000-5000
+8499,Full HD+,Android 13,other,4,4,128,Motorola,6,50.0,8.0,4000-5000
+6999,HD+,Android 14,other,4,4,64,Motorola,6,16.0,5.0,4000-5000
+22999,Full HD+,Android 13,Mediatek,5,8,128,Motorola,6,50.0,32.0,4000-5000
+26999,Full HD+,Android 13,Mediatek,5,8,256,Motorola,6,50.0,32.0,4000-5000
+9999,Full HD+,Android 12,Snapdragon,4,8,128,Motorola,6,50.0,16.0,4000-5000
+6499,HD+,Android 13,other,4,4,64,Motorola,6,13.0,5.0,4000-5000
+26999,Full HD+,Android 13,Mediatek,5,8,256,Motorola,6,50.0,32.0,4000-5000
+24999,Full HD+,Android 13,Mediatek,5,12,256,Motorola,6,50.0,32.0,4000-5000
+9999,Full HD+,Android 12,Snapdragon,4,8,128,Motorola,6,50.0,16.0,4000-5000
+8499,Full HD+,Android 13,other,4,4,128,Motorola,6,50.0,8.0,4000-5000
+8499,Full HD+,Android 13,other,4,4,128,Motorola,6,50.0,8.0,4000-5000
+26999,Full HD+,Android 13,Mediatek,5,8,256,Motorola,6,50.0,32.0,4000-5000
+6499,HD+,Android 13,other,4,4,64,Motorola,6,13.0,5.0,4000-5000
+7499,HD+,Android 13,other,4,8,128,Motorola,6,13.0,5.0,4000-5000
+8999,HD+,Android 13,Mediatek,4,4,128,Motorola,6,50.0,8.0,4000-5000
+7999,HD+,Android 10,Snapdragon,4,4,64,Motorola,6,48.0,8.0,4000-5000
+7499,HD+,Android 12,Mediatek,4,4,64,Motorola,6,50.0,8.0,4000-5000
+26999,Full HD+,Android 13,Mediatek,5,8,256,Motorola,6,50.0,32.0,4000-5000
+14999,Full HD+,Android 11,Snapdragon,4,6,128,Motorola,6,108.0,32.0,5000-6000
+14999,Full HD+,Android 11,Snapdragon,4,6,128,Motorola,6,108.0,32.0,5000-6000
+7580,HD+,Android 10,Snapdragon,4,4,64,Motorola,6,48.0,8.0,4000-5000
+15999,Full HD+,Android 11,Snapdragon,4,6,128,Motorola,6,108.0,32.0,5000-6000
+12999,Full HD+,Android 11,Mediatek,4,6,128,Motorola,6,50.0,13.0,4000-5000
+7499,HD+,other,Mediatek,4,4,64,Motorola,6,16.0,8.0,4000-5000
+16999,Full HD+,Android 12,Mediatek,4,6,128,Motorola,6,108.0,16.0,4000-5000
+10999,Full HD+,Android 12,Snapdragon,4,4,64,Motorola,6,50.0,16.0,4000-5000
+16999,Full HD+,Android 12,Mediatek,4,6,128,Motorola,6,108.0,16.0,4000-5000
+10999,HD+,Android 12,Mediatek,4,4,64,Motorola,6,50.0,16.0,4000-5000
+10999,Full HD+,Android 12,Snapdragon,4,4,64,Motorola,6,50.0,16.0,4000-5000
+10999,HD+,Android 12,Mediatek,4,4,64,Motorola,6,50.0,16.0,4000-5000
+34999,Full HD+,Android 12,Snapdragon,5,8,128,Motorola,6,50.0,32.0,4000-5000
+10999,HD+,Android 12,Mediatek,4,4,64,Motorola,6,50.0,16.0,4000-5000
+14990,Full HD+,Android 11,Snapdragon,4,4,64,Motorola,6,64.0,16.0,5000-6000
+7490,HD+,Android 12,Mediatek,4,4,64,Motorola,6,16.0,8.0,4000-5000
+13999,Full HD+,Android 12,Snapdragon,4,6,128,Motorola,6,50.0,16.0,4000-5000
+24999,Full HD+,Android 12,Snapdragon,5,6,128,Motorola,6,50.0,32.0,4000-5000
+13999,Full HD+,Android 12,Snapdragon,4,6,128,Motorola,6,50.0,16.0,4000-5000
+7499,HD+,other,Mediatek,4,4,64,Motorola,6,16.0,8.0,4000-5000
+21450,Full HD+,Android 11,Mediatek,5,6,128,Motorola,6,108.0,32.0,4000-5000
+26999,Full HD+,Android 12,Snapdragon,5,8,128,Motorola,6,50.0,32.0,4000-5000
+18999,Full HD+,Android 11,Mediatek,5,6,128,Motorola,6,108.0,32.0,4000-5000
+7899,HD+,Android 10,Mediatek,4,4,64,Motorola,6,13.0,5.0,4000-5000
+9999,Full HD+,other,other,4,4,128,Motorola,6,12.0,12.0,3000-4000
+12499,HD+,Android 11,Snapdragon,4,4,64,Motorola,6,64.0,13.0,4000-5000
+13890,Full HD+,Android 11,Snapdragon,5,4,64,Motorola,6,50.0,13.0,4000-5000
+10999,HD+,Android 12,Mediatek,4,4,64,Motorola,6,50.0,16.0,4000-5000
+10999,Full HD+,Android 12,Snapdragon,4,4,64,Motorola,6,50.0,16.0,4000-5000
+24999,Full HD+,Android 10,Snapdragon,5,6,128,Motorola,6,48.0,16.0,4000-5000
+8990,HD+,Android 11,other,4,4,64,Motorola,6,48.0,8.0,4000-5000
+26999,Full HD+,Android 12,Snapdragon,5,8,128,Motorola,6,50.0,32.0,4000-5000
+12999,Full HD+,Android 11,Snapdragon,4,6,128,Motorola,6,64.0,16.0,5000-6000
+9998,HD+,Android 11,Snapdragon,4,4,64,Motorola,6,64.0,13.0,4000-5000
+7490,HD+,Android 12,Mediatek,4,4,64,Motorola,6,16.0,8.0,4000-5000
+149999,other,Android 10,Snapdragon,4,6,128,Motorola,6,16.0,5.0,<3000
+20999,Full HD+,Android 11,Snapdragon,5,8,128,Motorola,6,108.0,32.0,3000-4000
+9999,HD,other,Mediatek,4,3,32,Motorola,5,13.0,5.0,4000-5000
+9999,HD,other,Mediatek,4,3,32,Motorola,5,13.0,5.0,4000-5000
+9999,HD,other,Mediatek,4,3,32,Motorola,5,13.0,5.0,4000-5000
+16999,Full HD+ AMOLED Display,Android 11,Snapdragon,5,6,128,Motorola,6,50.0,16.0,4000-5000
+34999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,8,128,Motorola,6,50.0,60.0,4000-5000
+12999,Full HD+,Android 11,Snapdragon,4,6,128,Motorola,6,64.0,16.0,5000-6000
+9999,HD+,Android 11,Snapdragon,4,4,64,Motorola,6,48.0,8.0,5000-6000
+9999,HD+,Android 11,Snapdragon,4,4,64,Motorola,6,48.0,8.0,5000-6000
+15999,Full HD+,other,Snapdragon,4,4,64,Motorola,6,48.0,25.0,3000-4000
+34999,Full HD+,Android 12,Snapdragon,5,8,128,Motorola,6,50.0,32.0,4000-5000
+13999,Full HD+,Android 12,Snapdragon,4,6,128,Motorola,6,50.0,16.0,4000-5000
+24999,Full HD+,Android 10,Snapdragon,5,6,128,Motorola,6,48.0,16.0,4000-5000
+11999,Full HD+,Android 11,Mediatek,4,4,64,Motorola,6,50.0,13.0,4000-5000
+20999,Full HD+,Android 11,Mediatek,5,8,128,Motorola,6,108.0,32.0,4000-5000
+20999,Full HD+,Android 11,Mediatek,5,8,128,Motorola,6,108.0,32.0,4000-5000
+10990,Full HD+,Android 11,Mediatek,4,4,64,Motorola,6,50.0,13.0,4000-5000
+14999,Full HD+,Android 11,Snapdragon,5,4,64,Motorola,6,50.0,13.0,4000-5000
+16999,Full HD+ AMOLED Display,Android 11,Snapdragon,5,6,128,Motorola,6,50.0,16.0,4000-5000
+6999,HD,other,Mediatek,4,2,16,Motorola,5,8.0,2.0,3000-4000
+10999,Full HD+,Android 11,Snapdragon,4,4,64,Motorola,6,64.0,16.0,5000-6000
+34999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,8,128,Motorola,6,50.0,60.0,4000-5000
+16999,Full HD,other,Snapdragon,4,4,32,Motorola,5,12.0,5.0,<3000
+20999,Full HD+,Android 11,Snapdragon,5,8,128,Motorola,6,108.0,32.0,3000-4000
+24999,Full HD+,Android 13,Mediatek,5,12,256,Motorola,6,50.0,32.0,4000-5000
+7499,HD+,Android 12,Mediatek,4,4,64,Motorola,6,50.0,8.0,4000-5000
+7499,HD+,Android 13,other,4,8,128,Motorola,6,13.0,5.0,4000-5000
+17999,Full HD+,Android 10,Snapdragon,4,6,128,Motorola,6,64.0,16.0,4000-5000
+24999,Full HD+,Android 13,Mediatek,5,12,256,Motorola,6,50.0,32.0,4000-5000
+10999,Full HD+,Android 12,Snapdragon,5,6,128,Motorola,6,50.0,16.0,4000-5000
+7499,HD+,Android 13,other,4,8,128,Motorola,6,13.0,5.0,4000-5000
+7499,HD+,Android 12,Mediatek,4,4,64,Motorola,6,50.0,8.0,4000-5000
+8990,HD+,Android 11,other,4,4,64,Motorola,6,48.0,8.0,4000-5000
+11999,Full HD+,Android 11,Mediatek,4,6,128,Motorola,6,50.0,13.0,4000-5000
+5999,HD+,Android 13,other,4,2,64,Motorola,6,13.0,5.0,4000-5000
+24999,Full HD+,Android 13,Mediatek,5,12,256,Motorola,6,50.0,32.0,4000-5000
+34999,Full HD+,Android 12,Snapdragon,5,8,128,Motorola,6,50.0,32.0,4000-5000
+10999,Full HD+,Android 12,Snapdragon,4,4,64,Motorola,6,50.0,16.0,4000-5000
+11999,Full HD+,Android 12,Snapdragon,4,4,64,Motorola,6,50.0,14.093100833965124,4000-5000
+29999,Full HD+,Android 11,Snapdragon,5,8,128,Motorola,6,108.0,32.0,4000-5000
+9099,HD+,Android 12,Mediatek,4,4,64,Motorola,6,16.0,8.0,4000-5000
+13999,Full HD+,Android 12,Snapdragon,5,6,128,Motorola,6,50.0,16.0,4000-5000
+5999,HD+,Android 13,other,4,2,64,Motorola,6,13.0,5.0,4000-5000
+13990,Full HD+,other,Snapdragon,4,4,64,Motorola,6,16.0,12.0,4000-5000
+10999,Full HD+,Android 12,Snapdragon,5,6,128,Motorola,6,50.0,16.0,4000-5000
+12999,Full HD+,Android 13,Mediatek,5,8,128,Motorola,6,50.0,16.0,4000-5000
+6999,HD+,Android 10,Mediatek,4,2,32,Motorola,6,13.0,5.0,4000-5000
+11999,HD+,Android 10,Snapdragon,4,4,64,Motorola,6,64.0,16.0,5000-6000
+21999,Full HD+,other,other,4,4,128,Motorola,6,48.0,25.0,3000-4000
+14999,Full HD+,Android 11,Snapdragon,4,6,128,Motorola,6,108.0,32.0,5000-6000
+7499,HD+,other,Mediatek,4,4,64,Motorola,6,13.0,8.0,<3000
+9499,HD+,Android 13,Mediatek,4,4,64,Motorola,6,50.0,8.0,4000-5000
+15999,Full HD+,other,Snapdragon,4,4,64,Motorola,5,12.0,16.0,<3000
+8999,HD+,Android 10,Mediatek,4,4,64,Motorola,6,13.0,5.0,4000-5000
+6999,HD+,Android 10,Mediatek,4,2,32,Motorola,6,13.0,5.0,4000-5000
+7499,HD+,other,Mediatek,4,4,64,Motorola,6,13.0,8.0,<3000
+27999,Full HD+,Android 11,Snapdragon,5,8,128,Motorola,6,108.0,32.0,3000-4000
+9999,Full HD+ AMOLED Display,Android 12,Snapdragon,4,4,64,Motorola,6,50.0,16.0,4000-5000
+10999,Full HD+,Android 12,Snapdragon,4,4,64,Motorola,6,50.0,16.0,4000-5000
+29999,Full HD+,Android 11,Snapdragon,5,8,128,Motorola,6,108.0,32.0,4000-5000
+7990,HD+,Android 12,Mediatek,4,4,64,Motorola,6,16.0,8.0,4000-5000
+39999,Full HD+,Android 12,Snapdragon,5,12,256,Motorola,6,200.0,60.0,4000-5000
+39999,Full HD+,Android 12,Snapdragon,5,12,256,Motorola,6,200.0,60.0,4000-5000
+16999,Full HD+,Android 10,Snapdragon,4,6,128,Motorola,6,64.0,16.0,4000-5000
+6990,HD+,Android 12,Mediatek,4,3,32,Motorola,6,16.0,14.093100833965124,4000-5000
+6990,HD+,Android 12,Mediatek,4,3,32,Motorola,6,16.0,8.0,4000-5000
+13999,Full HD+,Android 12,Snapdragon,5,6,128,Motorola,6,50.0,16.0,4000-5000
+34999,Full HD+,Android 12,Snapdragon,5,8,128,Motorola,6,200.0,60.0,4000-5000
+5999,HD+,Android 13,other,4,2,64,Motorola,6,13.0,5.0,4000-5000
+8999,HD+,Android 13,Mediatek,4,4,128,Motorola,6,50.0,8.0,4000-5000
+9999,Full HD+ AMOLED Display,Android 12,Snapdragon,4,4,64,Motorola,6,50.0,16.0,4000-5000
+6499,HD,other,Mediatek,4,2,16,Motorola,5,8.0,2.0,3000-4000
+9990,HD+,other,Snapdragon,4,3,32,Motorola,6,12.0,5.0,4000-5000
+14999,Full HD+,Android 12,Snapdragon,5,8,128,Motorola,6,50.0,16.0,4000-5000
+5999,HD,other,Mediatek,4,2,16,Motorola,5,8.0,2.0,3000-4000
+30999,Full HD+,Android 13,Mediatek,5,8,128,other,6,50.0,14.093100833965124,4000-5000
+31990,other,Android 10,Snapdragon,5,8,128,other,6,48.0,16.0,4000-5000
+25990,other,Android 11,Snapdragon,5,12,256,other,6,64.0,14.093100833965124,4000-5000
+32980,other,Android 10,Snapdragon,5,8,128,other,6,48.0,16.0,4000-5000
+32990,other,Android 10,Snapdragon,5,12,256,other,6,48.0,14.093100833965124,4000-5000
+21999,Full HD+,Android 10,Snapdragon,5,12,256,other,6,48.0,14.093100833965124,4000-5000
+22999,Full HD+,Android 10,Snapdragon,5,12,256,other,6,48.0,14.093100833965124,4000-5000
+22999,Full HD+,Android 10,Snapdragon,5,12,256,other,6,48.0,32.0,4000-5000
+37999,Full HD,other,Snapdragon,4,8,128,other,5,16.0,16.0,3000-4000
+32999,other,Android 10,Snapdragon,4,8,256,other,6,48.0,14.093100833965124,4000-5000
+37999,Full HD+,Android 10,Snapdragon,5,12,256,other,6,48.0,16.0,4000-5000
+39890,Full HD+,Android 10,Snapdragon,4,8,128,other,6,48.0,16.0,4000-5000
+39990,Full HD+,Android 10,Snapdragon,4,8,128,other,6,48.0,16.0,4000-5000
+22999,Full HD+,Android 10,Snapdragon,5,12,256,other,6,48.0,32.0,4000-5000
+37999,Full HD,other,Snapdragon,4,8,128,other,5,16.0,16.0,3000-4000
+32999,other,Android 10,Snapdragon,4,8,256,other,6,48.0,14.093100833965124,4000-5000
+37999,Full HD+,Android 10,Snapdragon,5,12,256,other,6,48.0,16.0,4000-5000
+9999,HD+,Android 12,Mediatek,4,4,64,OPPO,6,50.0,5.0,4000-5000
+13999,HD+,Android 13,Mediatek,5,4,128,OPPO,6,13.0,8.0,4000-5000
+12999,Full HD+,Android 13,Mediatek,4,6,128,OPPO,6,50.0,8.0,4000-5000
+13999,HD+,Android 13,Mediatek,5,4,128,OPPO,6,13.0,8.0,4000-5000
+29999,Full HD+,Android 14,Mediatek,5,8,128,OPPO,6,50.0,32.0,4000-5000
+29999,Full HD+,Android 14,Mediatek,5,8,128,OPPO,6,50.0,32.0,4000-5000
+12999,Full HD+,Android 13,Mediatek,4,6,128,OPPO,6,50.0,8.0,4000-5000
+31999,Full HD+,Android 14,Mediatek,5,8,256,OPPO,6,50.0,32.0,4000-5000
+31999,Full HD+,Android 14,Mediatek,5,8,256,OPPO,6,50.0,32.0,4000-5000
+9999,HD+,Android 13,Mediatek,4,4,64,OPPO,6,8.0,5.0,4000-5000
+8499,HD+,Android 12,Mediatek,4,3,64,OPPO,6,8.0,5.0,4000-5000
+10499,HD+,Android 13,Mediatek,4,4,128,OPPO,6,8.0,5.0,4000-5000
+10499,HD+,Android 13,Mediatek,4,4,128,OPPO,6,8.0,5.0,4000-5000
+9999,HD+,Android 13,Mediatek,4,4,64,OPPO,6,8.0,5.0,4000-5000
+8499,HD+,Android 12,Mediatek,4,3,64,OPPO,6,8.0,5.0,4000-5000
+10999,HD,Android 13,Mediatek,4,4,128,OPPO,6,50.0,5.0,4000-5000
+32999,Full HD+,Android 13,Mediatek,5,8,256,OPPO,6,64.0,32.0,4000-5000
+25999,Full HD+,Android 14,Mediatek,5,8,256,OPPO,6,64.0,32.0,4000-5000
+23999,Full HD+,Android 14,Mediatek,5,8,128,OPPO,6,64.0,32.0,4000-5000
+32999,Full HD+,Android 13,Mediatek,5,8,256,OPPO,6,64.0,32.0,4000-5000
+39999,Full HD+,Android 14,Mediatek,5,12,256,OPPO,6,50.0,32.0,4000-5000
+17490,Full HD+,Android 12,Snapdragon,4,8,128,OPPO,6,64.0,32.0,4000-5000
+9999,HD+,Android 12,Mediatek,4,4,64,OPPO,6,50.0,5.0,4000-5000
+10999,HD,Android 13,Mediatek,4,4,128,OPPO,6,50.0,5.0,4000-5000
+17490,Full HD+,Android 12,Snapdragon,4,8,128,OPPO,6,64.0,32.0,4000-5000
+39999,Full HD+,Android 14,Mediatek,5,12,256,OPPO,6,50.0,32.0,4000-5000
+15499,Full HD+ AMOLED Display,Android 13,Snapdragon,4,8,128,OPPO,6,50.0,8.0,4000-5000
+17999,HD+,Android 13,Mediatek,5,8,128,OPPO,6,50.0,8.0,4000-5000
+37999,Full HD+,Android 13,Snapdragon,5,12,256,OPPO,6,50.0,32.0,4000-5000
+22999,Full HD+,Android 13,Snapdragon,5,8,256,OPPO,6,64.0,32.0,4000-5000
+37999,Full HD+,Android 13,Snapdragon,5,12,256,OPPO,6,50.0,32.0,4000-5000
+22999,Full HD+,Android 13,Snapdragon,5,8,256,OPPO,6,64.0,32.0,4000-5000
+15499,Full HD+ AMOLED Display,Android 13,Snapdragon,4,8,128,OPPO,6,50.0,8.0,4000-5000
+12999,Full HD+,Android 13,Mediatek,4,6,128,OPPO,6,50.0,8.0,4000-5000
+17999,HD+,Android 13,Mediatek,5,8,128,OPPO,6,50.0,8.0,4000-5000
+15350,HD+,Android 13,Mediatek,5,6,128,OPPO,6,13.0,8.0,4000-5000
+11490,HD+,Android 12,Mediatek,4,4,64,OPPO,6,50.0,8.0,4000-5000
+9999,HD+,Android 10,Snapdragon,4,3,32,OPPO,6,13.0,8.0,4000-5000
+21999,Full HD+,Android 12,Snapdragon,4,8,128,OPPO,6,64.0,32.0,4000-5000
+12499,HD+,Android 11,Mediatek,4,4,64,OPPO,6,50.0,16.0,4000-5000
+18990,HD,other,Snapdragon,4,4,128,OPPO,6,48.0,16.0,4000-5000
+16999,Full HD+,Android 11,Snapdragon,4,8,128,OPPO,6,50.0,16.0,4000-5000
+19999,HD+,Android 12,Mediatek,4,4,128,OPPO,6,50.0,8.0,4000-5000
+22990,Full HD+,Android 11,Snapdragon,4,6,128,OPPO,6,48.0,16.0,4000-5000
+54999,Full HD+,Android 13,Snapdragon,5,12,256,OPPO,6,50.0,32.0,4000-5000
+54999,Full HD+,Android 13,Snapdragon,5,12,256,OPPO,6,50.0,32.0,4000-5000
+13989,HD+,Android 12,Mediatek,4,4,64,OPPO,6,13.0,8.0,4000-5000
+12499,HD+,Android 11,Mediatek,4,4,64,OPPO,6,50.0,16.0,4000-5000
+21999,Full HD+,Android 12,Snapdragon,4,8,128,OPPO,6,64.0,32.0,4000-5000
+22868,other,Android 11,Snapdragon,5,8,128,OPPO,6,64.0,14.093100833965124,4000-5000
+22995,other,Android 11,Snapdragon,5,8,128,OPPO,6,64.0,14.093100833965124,4000-5000
+12998,HD+,Android 11,Mediatek,4,4,64,OPPO,6,50.0,16.0,4000-5000
+22999,HD+,Android 12,Snapdragon,4,8,128,OPPO,6,50.0,8.0,4000-5000
+22999,HD+,Android 12,Snapdragon,4,8,128,OPPO,6,50.0,8.0,4000-5000
+8985,HD+,Android 11,Mediatek,4,3,32,OPPO,6,13.0,5.0,4000-5000
+8999,HD+,Android 11,Mediatek,4,3,32,OPPO,6,13.0,5.0,4000-5000
+94999,Full HD,Android 13,Mediatek,5,12,256,OPPO,6,50.0,32.0,4000-5000
+12250,HD+,Android 11,Mediatek,4,4,64,OPPO,6,13.0,8.0,4000-5000
+15990,HD+,Android 11,Mediatek,4,4,64,OPPO,6,13.0,8.0,4000-5000
+15490,HD+,Android 11,Snapdragon,4,6,128,OPPO,6,13.0,8.0,4000-5000
+18999,Full HD+,Android 11,Snapdragon,4,6,128,OPPO,6,50.0,16.0,4000-5000
+94999,Full HD,Android 13,Mediatek,5,12,256,OPPO,6,50.0,32.0,4000-5000
+8640,HD+,Android 10,Mediatek,4,3,32,OPPO,6,13.0,5.0,4000-5000
+13800,HD+,Android 10,Mediatek,4,4,64,OPPO,6,13.0,16.0,4000-5000
+14990,HD+,Android 10,Mediatek,4,4,64,OPPO,6,13.0,16.0,4000-5000
+12499,HD+,Android 12,Mediatek,4,4,64,OPPO,6,50.0,5.0,4000-5000
+18999,Full HD+,Android 11,Snapdragon,4,6,128,OPPO,6,50.0,16.0,4000-5000
+10990,HD+,other,Mediatek,4,2,32,OPPO,6,13.0,5.0,4000-5000
+9490,HD+,Android 11,Mediatek,4,4,64,OPPO,6,13.0,5.0,4000-5000
+14490,HD+,Android 11,Snapdragon,4,6,128,OPPO,6,13.0,8.0,4000-5000
+25990,Full HD+,Android 11,Mediatek,4,8,256,OPPO,6,48.0,16.0,4000-5000
+25999,HD+,Android 12,Mediatek,5,8,128,OPPO,6,48.0,8.0,4000-5000
+16390,Full HD+,Android 11,Mediatek,4,8,128,OPPO,6,48.0,16.0,4000-5000
+13899,HD+,Android 11,Mediatek,4,4,128,OPPO,6,50.0,16.0,4000-5000
+15399,Full HD+,Android 11,Mediatek,4,8,128,OPPO,6,48.0,16.0,4000-5000
+13700,HD+,Android 11,Mediatek,4,4,128,OPPO,6,50.0,16.0,4000-5000
+13989,HD+,Android 12,Mediatek,4,4,64,OPPO,6,13.0,8.0,4000-5000
+11998,HD+,Android 12,Mediatek,4,4,64,OPPO,6,13.0,8.0,4000-5000
+25999,HD+,Android 12,Mediatek,5,8,128,OPPO,6,48.0,8.0,4000-5000
+15990,HD+,Android 10,Mediatek,4,4,128,OPPO,6,13.0,16.0,4000-5000
+38999,Full HD+,Android 13,Snapdragon,5,8,128,OPPO,6,108.0,32.0,4000-5000
+38999,Full HD+,Android 13,Snapdragon,5,8,128,OPPO,6,108.0,32.0,4000-5000
+13490,HD,other,Mediatek,4,3,16,OPPO,5,13.0,5.0,<3000
+89999,Full HD+,Android 13,Mediatek,5,8,256,OPPO,6,50.0,32.0,4000-5000
+29990,Full HD+,Android 11,Mediatek,5,8,128,OPPO,6,48.0,16.0,4000-5000
+74990,Full HD+,Android 13,Mediatek,5,8,256,OPPO,6,50.0,32.0,4000-5000
+36999,Full HD+ AMOLED Display,Android 12,Mediatek,5,12,256,OPPO,6,50.0,32.0,4000-5000
+10990,HD+,other,Mediatek,4,3,32,OPPO,6,13.0,5.0,4000-5000
+37805,Full HD+ AMOLED Display,Android 12,Mediatek,5,12,256,OPPO,6,50.0,32.0,4000-5000
+38999,Full HD,Android 12,Mediatek,5,8,128,OPPO,6,50.0,32.0,4000-5000
+11990,HD+,other,Mediatek,4,4,64,OPPO,6,13.0,5.0,4000-5000
+11990,HD+,other,Mediatek,4,4,64,OPPO,6,13.0,5.0,4000-5000
+10990,HD+,other,Mediatek,4,3,32,OPPO,6,13.0,5.0,4000-5000
+9990,HD+,other,Mediatek,4,3,32,OPPO,6,13.0,5.0,4000-5000
+38990,Full HD+,Android 11,Mediatek,5,8,128,OPPO,6,64.0,32.0,4000-5000
+9990,HD+,other,Snapdragon,4,2,16,OPPO,6,13.0,8.0,4000-5000
+28990,Full HD+,Android 11,Mediatek,5,8,128,OPPO,6,64.0,32.0,4000-5000
+10990,HD+,other,Mediatek,4,3,32,OPPO,6,13.0,5.0,4000-5000
+17990,HD+,Android 10,Mediatek,4,6,128,OPPO,6,13.0,16.0,4000-5000
+16990,HD+,Android 11,Mediatek,5,6,128,OPPO,6,13.0,8.0,4000-5000
+18990,HD+,Android 11,Mediatek,5,8,128,OPPO,6,13.0,8.0,4000-5000
+18990,HD+,Android 11,Mediatek,5,8,128,OPPO,6,13.0,8.0,4000-5000
+25990,Full HD+,Android 10,Mediatek,4,8,128,OPPO,6,48.0,14.093100833965124,4000-5000
+16990,HD+,Android 11,Mediatek,5,6,128,OPPO,6,13.0,8.0,4000-5000
+35990,Full HD+,Android 11,Mediatek,5,8,128,OPPO,6,64.0,32.0,4000-5000
+35990,Full HD+,Android 11,Mediatek,5,8,128,OPPO,6,64.0,32.0,4000-5000
+12250,HD+,Android 11,Mediatek,4,4,64,OPPO,6,13.0,8.0,4000-5000
+25990,Full HD+,Android 10,Mediatek,4,8,128,OPPO,6,48.0,14.093100833965124,4000-5000
+37990,Full HD,Android 11,Mediatek,5,8,256,OPPO,6,64.0,32.0,4000-5000
+25990,Full HD+,Android 10,Mediatek,4,8,128,OPPO,6,48.0,14.093100833965124,4000-5000
+21990,Full HD+,other,Mediatek,4,4,64,OPPO,6,16.0,16.0,3000-4000
+17990,Full HD+,other,Mediatek,4,3,32,OPPO,6,13.0,16.0,3000-4000
+15990,HD+,other,Snapdragon,4,4,64,OPPO,6,13.0,8.0,4000-5000
+15049,Full HD+,Android 10,Snapdragon,4,4,128,OPPO,6,12.0,16.0,4000-5000
+18990,HD,other,Snapdragon,4,4,128,OPPO,6,48.0,16.0,4000-5000
+15990,HD+,Android 10,Snapdragon,4,4,64,OPPO,6,13.0,16.0,4000-5000
+17990,HD+,Android 10,Snapdragon,4,6,128,OPPO,6,13.0,16.0,4000-5000
+15990,HD+,other,Mediatek,4,4,64,OPPO,6,13.0,8.0,4000-5000
+12990,HD+,other,Mediatek,4,2,32,OPPO,6,13.0,8.0,4000-5000
+12990,HD+,other,Mediatek,4,2,32,OPPO,6,13.0,8.0,4000-5000
+15990,HD+,Android 10,Snapdragon,4,4,64,OPPO,6,13.0,16.0,4000-5000
+22990,Full HD+,other,Mediatek,4,8,128,OPPO,6,48.0,16.0,3000-4000
+22990,Full HD+,other,Mediatek,4,8,128,OPPO,6,48.0,16.0,3000-4000
+22990,Full HD+,other,Mediatek,4,8,128,OPPO,6,48.0,16.0,3000-4000
+20990,Full HD+,other,Mediatek,4,4,128,OPPO,6,48.0,16.0,3000-4000
+46990,Full HD+,Android 11,Mediatek,5,12,256,OPPO,6,64.0,32.0,4000-5000
+14880,HD+,Android 13,Mediatek,5,6,128,OPPO,6,13.0,8.0,4000-5000
+8499,HD+,Android 11,Mediatek,4,3,32,OPPO,6,13.0,5.0,4000-5000
+18999,Full HD+,Android 10,Snapdragon,4,6,128,OPPO,6,16.0,16.0,4000-5000
+8499,HD+,Android 12,Mediatek,4,3,64,OPPO,6,8.0,5.0,4000-5000
+25999,Full HD+,Android 14,Mediatek,5,8,256,OPPO,6,64.0,32.0,4000-5000
+20990,Full HD+,Android 11,Snapdragon,4,6,128,OPPO,6,48.0,16.0,4000-5000
+22990,Full HD+,Android 11,Snapdragon,4,6,128,OPPO,6,48.0,16.0,4000-5000
+23999,Full HD+,Android 11,Snapdragon,4,8,128,OPPO,6,50.0,16.0,4000-5000
+18990,HD+,Android 11,Mediatek,4,4,128,OPPO,6,50.0,16.0,4000-5000
+18990,HD+,Android 11,Mediatek,4,4,64,OPPO,6,50.0,16.0,4000-5000
+20990,Full HD+,Android 11,Snapdragon,4,6,128,OPPO,6,48.0,16.0,4000-5000
+20990,Full HD+,Android 11,Snapdragon,4,6,128,OPPO,6,48.0,16.0,4000-5000
+20990,Full HD+,Android 11,Snapdragon,4,6,128,OPPO,6,48.0,16.0,4000-5000
+15999,other,other,Mediatek,4,4,128,OPPO,6,48.0,16.0,4000-5000
+23990,other,other,Mediatek,4,6,128,OPPO,6,48.0,16.0,4000-5000
+21990,other,other,Mediatek,4,4,128,OPPO,6,48.0,16.0,4000-5000
+14990,HD+,Android 10,Mediatek,4,4,64,OPPO,6,13.0,16.0,4000-5000
+8999,HD+,Android 11,Mediatek,4,3,32,OPPO,6,13.0,5.0,4000-5000
+25990,Full HD+,Android 11,Mediatek,4,8,256,OPPO,6,48.0,16.0,4000-5000
+34000,other,Android 10,Mediatek,4,8,256,OPPO,6,64.0,14.093100833965124,4000-5000
+25970,other,Android 10,Mediatek,4,8,256,OPPO,6,64.0,14.093100833965124,4000-5000
+23990,Full HD+,Android 11,Mediatek,4,8,128,OPPO,6,48.0,16.0,4000-5000
+25800,other,Android 10,Mediatek,4,8,256,OPPO,6,64.0,14.093100833965124,4000-5000
+27990,other,Android 10,Mediatek,4,8,128,OPPO,6,64.0,14.093100833965124,4000-5000
+12990,HD+,Android 10,Mediatek,4,3,32,OPPO,6,13.0,5.0,4000-5000
+25990,Full HD+,Android 11,Mediatek,4,8,256,OPPO,6,48.0,16.0,4000-5000
+24707,other,Android 10,Mediatek,4,8,128,OPPO,6,64.0,14.093100833965124,4000-5000
+23940,other,Android 10,Mediatek,4,8,128,OPPO,6,64.0,14.093100833965124,4000-5000
+29990,Full HD+,other,Mediatek,4,6,128,OPPO,6,48.0,16.0,3000-4000
+10990,HD+,Android 10,Mediatek,4,2,32,OPPO,6,13.0,5.0,4000-5000
+10990,HD+,Android 10,Mediatek,4,2,32,OPPO,6,13.0,5.0,4000-5000
+7999,HD+,Android 11,Mediatek,4,3,32,OPPO,6,13.0,5.0,4000-5000
+38999,Full HD,Android 12,Mediatek,5,8,128,OPPO,6,50.0,32.0,4000-5000
+9999,HD+,Android 11,Mediatek,4,4,64,OPPO,6,13.0,5.0,4000-5000
+12799,HD+,other,Mediatek,4,6,128,OPPO,6,12.0,8.0,4000-5000
+17990,other,other,Mediatek,4,6,128,OPPO,6,48.0,16.0,4000-5000
+29990,Full HD+,other,Mediatek,4,6,128,OPPO,6,48.0,16.0,3000-4000
+60990,Full HD,other,Snapdragon,4,8,256,OPPO,6,16.0,25.0,3000-4000
+15499,HD+,Android 12,Mediatek,4,4,64,OPPO,6,50.0,14.093100833965124,4000-5000
+9490,HD+,other,Snapdragon,4,2,16,OPPO,6,13.0,8.0,4000-5000
+52999,Full HD+ AMOLED Display,Android 12,Mediatek,5,12,256,OPPO,6,50.0,32.0,4000-5000
+18890,other,other,Mediatek,4,6,128,OPPO,6,48.0,16.0,4000-5000
+9999,HD,other,Mediatek,4,3,16,OPPO,5,13.0,5.0,<3000
+24990,Full HD+,other,Mediatek,4,6,128,OPPO,6,48.0,16.0,3000-4000
+20990,Full HD,other,Mediatek,4,4,64,OPPO,5,13.0,14.093100833965124,3000-4000
+13990,HD+,other,Snapdragon,4,4,64,OPPO,6,13.0,8.0,4000-5000
+18300,HD,other,Mediatek,4,3,32,OPPO,5,13.0,16.0,3000-4000
+37990,Full HD+,Android 10,Snapdragon,4,8,128,OPPO,6,48.0,32.0,3000-4000
+10999,Full HD+,Android 13,Snapdragon,5,4,128,POCO,6,50.0,8.0,4000-5000
+13999,Full HD+,Android 13,Snapdragon,5,8,256,POCO,6,50.0,8.0,4000-5000
+13999,Full HD+,Android 13,Snapdragon,5,8,256,POCO,6,50.0,8.0,4000-5000
+12499,HD+,Android 13,Mediatek,5,8,256,POCO,6,50.0,14.093100833965124,4000-5000
+12499,HD+,Android 13,Mediatek,5,8,256,POCO,6,50.0,14.093100833965124,4000-5000
+8299,HD+,Android 13,Mediatek,4,6,128,POCO,6,50.0,8.0,4000-5000
+10999,HD+,Android 13,Mediatek,5,6,128,POCO,6,50.0,14.093100833965124,4000-5000
+10999,HD+,Android 13,Mediatek,5,6,128,POCO,6,50.0,14.093100833965124,4000-5000
+10999,HD+,Android 13,Mediatek,5,6,128,POCO,6,50.0,14.093100833965124,4000-5000
+9999,Full HD+ AMOLED Display,Android 11,Mediatek,4,8,128,POCO,6,64.0,16.0,4000-5000
+6999,Full HD+,Android 12,Mediatek,4,4,64,POCO,6,50.0,8.0,4000-5000
+10999,Full HD+,Android 13,Snapdragon,5,4,128,POCO,6,50.0,8.0,4000-5000
+27999,other,Android 14,Mediatek,5,12,512,POCO,6,64.0,16.0,4000-5000
+8999,HD+,Android 13,Mediatek,4,8,256,POCO,6,50.0,8.0,4000-5000
+4999,HD+,Android 13,Mediatek,4,4,64,POCO,6,8.0,5.0,4000-5000
+25999,other,Android 14,Mediatek,5,8,256,POCO,6,64.0,16.0,4000-5000
+9999,Full HD+ AMOLED Display,Android 11,Mediatek,4,8,128,POCO,6,64.0,16.0,4000-5000
+25999,other,Android 14,Mediatek,5,8,256,POCO,6,64.0,16.0,4000-5000
+8299,HD+,Android 13,Mediatek,4,6,128,POCO,6,50.0,8.0,4000-5000
+5999,HD+,Android 12,Mediatek,4,4,64,POCO,6,50.0,5.0,4000-5000
+9498,Full HD+,Android 10,Snapdragon,4,4,64,POCO,6,48.0,8.0,5000-6000
+21999,Full HD+,Android 12,Snapdragon,5,12,256,POCO,6,64.0,20.0,4000-5000
+18999,Full HD+,Android 12,Snapdragon,5,6,128,POCO,6,48.0,13.0,4000-5000
+14999,Full HD+,Android 12,Mediatek,5,6,128,POCO,6,50.0,8.0,4000-5000
+7299,HD+,Android 12,Mediatek,4,3,32,POCO,6,8.0,5.0,4000-5000
+14999,Full HD+,Android 10,Snapdragon,4,6,128,POCO,6,48.0,8.0,5000-6000
+14999,Full HD+,Android 12,Mediatek,5,6,128,POCO,6,50.0,8.0,4000-5000
+29999,Full HD+,Android 12,Snapdragon,5,8,128,POCO,6,64.0,20.0,4000-5000
+18999,Full HD+,Android 12,Snapdragon,5,6,128,POCO,6,48.0,13.0,4000-5000
+30999,Full HD+,Android 13,Snapdragon,5,12,256,POCO,6,64.0,16.0,4000-5000
+17999,Full HD+,Android 10,Snapdragon,4,6,64,POCO,6,48.0,16.0,4000-5000
+8499,HD+,Android 10,Mediatek,4,3,32,POCO,6,13.0,5.0,4000-5000
+10999,Full HD+,Android 13,Snapdragon,5,4,64,POCO,6,50.0,8.0,4000-5000
+30999,Full HD+,Android 13,Snapdragon,5,12,256,POCO,6,64.0,16.0,4000-5000
+14999,Full HD+,Android 10,Snapdragon,4,6,128,POCO,6,48.0,8.0,5000-6000
+6990,HD+,Android 10,Mediatek,4,4,64,POCO,6,13.0,5.0,4000-5000
+16999,Full HD+,Android 11,Mediatek,5,6,128,POCO,6,50.0,16.0,4000-5000
+7299,HD+,Android 12,Mediatek,4,3,32,POCO,6,8.0,5.0,4000-5000
+14999,Full HD+ AMOLED Display,Android 11,Mediatek,4,6,64,POCO,6,64.0,16.0,4000-5000
+9599,Full HD+,Android 10,Mediatek,4,4,64,POCO,6,13.0,8.0,4000-5000
+14499,Full HD+,Android 11,Mediatek,5,4,64,POCO,6,48.0,8.0,4000-5000
+29999,Full HD+,Android 13,Snapdragon,5,8,256,POCO,6,64.0,16.0,4000-5000
+7299,HD+,Android 12,Mediatek,4,3,32,POCO,6,8.0,5.0,4000-5000
+13999,Full HD+,Android 13,Snapdragon,5,8,256,POCO,6,50.0,8.0,4000-5000
+13999,Full HD+,Android 13,Snapdragon,5,8,256,POCO,6,50.0,8.0,4000-5000
+14999,Full HD+,Android 12,Mediatek,5,6,128,POCO,6,50.0,8.0,4000-5000
+20999,Full HD+,Android 12,Snapdragon,5,8,256,POCO,6,48.0,13.0,4000-5000
+12499,HD+,Android 13,Mediatek,5,8,256,POCO,6,50.0,14.093100833965124,4000-5000
+10999,HD+,Android 13,Mediatek,5,6,128,POCO,6,50.0,14.093100833965124,4000-5000
+18999,Full HD+,Android 12,Snapdragon,5,6,128,POCO,6,48.0,13.0,4000-5000
+11490,Full HD+,Android 10,Snapdragon,4,4,64,POCO,6,48.0,16.0,4000-5000
+19999,other,Android 11,Snapdragon,5,6,128,POCO,6,64.0,16.0,4000-5000
+12999,Full HD+,Android 12,Mediatek,5,4,64,POCO,6,50.0,8.0,4000-5000
+10999,HD+,Android 13,Mediatek,5,6,128,POCO,6,50.0,14.093100833965124,4000-5000
+10999,HD+,Android 13,Mediatek,5,6,128,POCO,6,50.0,14.093100833965124,4000-5000
+22999,Full HD+,Android 12,Snapdragon,5,6,128,POCO,6,108.0,16.0,4000-5000
+18999,Full HD+,Android 11,Mediatek,5,8,128,POCO,6,50.0,16.0,4000-5000
+12499,HD+,Android 13,Mediatek,5,8,256,POCO,6,50.0,14.093100833965124,4000-5000
+12499,HD+,Android 13,Mediatek,5,8,256,POCO,6,50.0,14.093100833965124,4000-5000
+20999,Full HD+,Android 10,Snapdragon,4,6,128,POCO,6,64.0,20.0,5000-6000
+14999,Full HD+,Android 10,Snapdragon,4,4,64,POCO,6,48.0,16.0,4000-5000
+8499,HD+,Android 10,Mediatek,4,3,32,POCO,6,13.0,5.0,4000-5000
+14999,Full HD+,Android 11,Mediatek,5,4,64,POCO,6,50.0,16.0,4000-5000
+13999,Full HD+,Android 13,Snapdragon,5,8,256,POCO,6,50.0,8.0,4000-5000
+13999,Full HD+,Android 13,Snapdragon,5,8,256,POCO,6,50.0,8.0,4000-5000
+25999,Full HD+,Android 12,Snapdragon,5,6,128,POCO,6,108.0,16.0,4000-5000
+10450,Full HD+,Android 10,Snapdragon,4,4,64,POCO,6,48.0,8.0,5000-6000
+12499,HD+,Android 13,Mediatek,5,8,256,POCO,6,50.0,14.093100833965124,4000-5000
+10999,HD+,Android 13,Mediatek,5,6,128,POCO,6,50.0,14.093100833965124,4000-5000
+18999,other,Android 11,Snapdragon,5,6,64,POCO,6,64.0,16.0,4000-5000
+21899,Full HD+,Android 12,Snapdragon,5,6,128,POCO,6,64.0,20.0,4000-5000
+29999,Full HD+,Android 13,Snapdragon,5,8,256,POCO,6,64.0,16.0,4000-5000
+10999,HD+,Android 13,Mediatek,5,6,128,POCO,6,50.0,14.093100833965124,4000-5000
+10999,HD+,Android 13,Mediatek,5,6,128,POCO,6,50.0,14.093100833965124,4000-5000
+10999,Full HD+,Android 10,Snapdragon,4,6,64,POCO,6,48.0,8.0,5000-6000
+12999,Full HD+,Android 12,Mediatek,5,4,64,POCO,6,50.0,8.0,4000-5000
+12499,HD+,Android 13,Mediatek,5,8,256,POCO,6,50.0,14.093100833965124,4000-5000
+12499,HD+,Android 13,Mediatek,5,8,256,POCO,6,50.0,14.093100833965124,4000-5000
+29999,Full HD+,Android 13,Snapdragon,5,8,256,POCO,6,64.0,16.0,4000-5000
+23999,Full HD+,Android 12,Snapdragon,5,8,256,POCO,6,48.0,13.0,4000-5000
+9990,Full HD+,Android 10,Snapdragon,4,4,64,POCO,6,48.0,8.0,5000-6000
+12999,Full HD+,Android 12,Mediatek,5,4,64,POCO,6,50.0,8.0,4000-5000
+10999,Full HD+,Android 13,Snapdragon,5,4,128,POCO,6,50.0,8.0,4000-5000
+27999,other,Android 14,Mediatek,5,12,512,POCO,6,64.0,16.0,4000-5000
+19999,Full HD+,Android 10,Snapdragon,4,6,128,POCO,6,48.0,16.0,4000-5000
+17999,Full HD+,Android 10,Snapdragon,4,6,64,POCO,6,48.0,16.0,4000-5000
+16499,Full HD+ AMOLED Display,Android 11,Mediatek,4,6,128,POCO,6,64.0,16.0,4000-5000
+12099,Full HD+,Android 10,Mediatek,4,6,128,POCO,6,13.0,8.0,4000-5000
+12999,Full HD+,Android 10,Snapdragon,4,6,64,POCO,6,48.0,8.0,5000-6000
+8899,HD+,Android 10,Mediatek,4,4,64,POCO,6,13.0,5.0,4000-5000
+19999,Full HD+,Android 11,Snapdragon,4,6,128,POCO,6,48.0,20.0,5000-6000
+12999,Full HD+,Android 11,Mediatek,5,4,64,POCO,6,48.0,8.0,4000-5000
+9990,Full HD+,Android 10,Snapdragon,4,4,64,POCO,6,48.0,8.0,5000-6000
+7279,HD+,Android 10,Mediatek,4,3,32,POCO,6,13.0,5.0,4000-5000
+25999,Full HD+,Android 11,Snapdragon,4,8,128,POCO,6,48.0,20.0,5000-6000
+14999,Full HD+ AMOLED Display,Android 11,Mediatek,4,6,64,POCO,6,64.0,16.0,4000-5000
+9890,Full HD+,Android 10,Mediatek,4,4,64,POCO,6,13.0,8.0,4000-5000
+17999,Full HD+,Android 10,Snapdragon,4,6,64,POCO,6,48.0,16.0,4000-5000
+17999,Full HD+,Android 10,Snapdragon,4,6,64,POCO,6,64.0,14.093100833965124,4000-5000
+5990,HD+,Android 10,Mediatek,4,3,32,POCO,6,13.0,5.0,4000-5000
+20999,Full HD+,Android 10,Snapdragon,4,6,128,POCO,6,64.0,20.0,5000-6000
+29990,Full HD+,Android 12,Snapdragon,5,12,256,POCO,6,64.0,20.0,4000-5000
+28490,Full HD+,Android 12,Snapdragon,5,8,128,POCO,6,64.0,20.0,4000-5000
+36999,Full HD+,Android 11,Mediatek,5,8,256,POCO,6,64.0,16.0,5000-6000
+23999,other,Android 11,Snapdragon,5,6,128,POCO,6,64.0,16.0,4000-5000
+32999,Full HD+,Android 11,Mediatek,5,6,128,POCO,6,64.0,16.0,5000-6000
+8490,HD+,Android 10,Mediatek,4,4,64,POCO,6,13.0,5.0,4000-5000
+19999,Full HD+,Android 10,Snapdragon,4,6,128,POCO,6,48.0,16.0,4000-5000
+19999,Full HD+,Android 10,Snapdragon,4,6,128,POCO,6,48.0,16.0,4000-5000
+13999,Full HD+,Android 13,Snapdragon,5,8,256,POCO,6,50.0,8.0,4000-5000
+13999,Full HD+,Android 13,Snapdragon,5,8,256,POCO,6,50.0,8.0,4000-5000
+17999,Full HD+,Android 10,Snapdragon,4,6,64,POCO,6,64.0,14.093100833965124,4000-5000
+10789,Full HD+,Android 10,Mediatek,4,6,64,POCO,6,13.0,8.0,4000-5000
+12499,HD+,Android 13,Mediatek,5,8,256,POCO,6,50.0,14.093100833965124,4000-5000
+10999,HD+,Android 13,Mediatek,5,6,128,POCO,6,50.0,14.093100833965124,4000-5000
+17999,Full HD+,Android 10,Snapdragon,4,6,64,POCO,6,64.0,14.093100833965124,4000-5000
+25999,Full HD+,Android 11,Snapdragon,4,8,128,POCO,6,48.0,20.0,5000-6000
+16999,Full HD+,Android 11,Mediatek,5,6,128,POCO,6,48.0,8.0,4000-5000
+16990,Full HD+,Android 10,Snapdragon,4,6,128,POCO,6,64.0,14.093100833965124,4000-5000
+10999,HD+,Android 13,Mediatek,5,6,128,POCO,6,50.0,14.093100833965124,4000-5000
+10999,HD+,Android 13,Mediatek,5,6,128,POCO,6,50.0,14.093100833965124,4000-5000
+19999,Full HD+,Android 10,Snapdragon,4,6,64,POCO,6,64.0,20.0,5000-6000
+21890,Full HD+,Android 11,Snapdragon,4,6,128,POCO,6,48.0,20.0,5000-6000
+12499,HD+,Android 13,Mediatek,5,8,256,POCO,6,50.0,14.093100833965124,4000-5000
+12499,HD+,Android 13,Mediatek,5,8,256,POCO,6,50.0,14.093100833965124,4000-5000
+34999,Full HD+,Android 11,Mediatek,5,8,128,POCO,6,64.0,16.0,5000-6000
+16499,Full HD+,Android 11,Mediatek,5,6,128,POCO,6,48.0,8.0,4000-5000
+12999,Full HD+,Android 11,Mediatek,5,4,64,POCO,6,48.0,8.0,4000-5000
+21999,Full HD+,other,Snapdragon,4,6,64,POCO,6,12.0,20.0,3000-4000
+10999,Full HD+,Android 13,Snapdragon,5,4,128,POCO,6,50.0,8.0,4000-5000
+27999,other,Android 14,Mediatek,5,12,512,POCO,6,64.0,16.0,4000-5000
+7999,Full HD+,Android 12,Mediatek,4,6,128,POCO,6,50.0,8.0,4000-5000
+10999,Full HD+,Android 13,Snapdragon,5,4,64,POCO,6,50.0,8.0,4000-5000
+9999,Full HD+ AMOLED Display,Android 11,Mediatek,4,8,128,POCO,6,64.0,16.0,4000-5000
+16999,Full HD+,Android 11,Mediatek,5,6,128,POCO,6,50.0,16.0,4000-5000
+6999,Full HD+,Android 12,Mediatek,4,4,64,POCO,6,50.0,8.0,4000-5000
+19999,Full HD+,Android 10,Snapdragon,4,8,256,POCO,6,64.0,14.093100833965124,4000-5000
+14990,Full HD+,Android 11,Mediatek,5,6,128,POCO,6,50.0,16.0,4000-5000
+18999,Full HD+,other,Snapdragon,4,6,64,POCO,6,12.0,20.0,3000-4000
+17990,Full HD+,Android 10,Snapdragon,4,6,128,POCO,6,64.0,14.093100833965124,4000-5000
+13890,Full HD+,other,Snapdragon,4,6,64,POCO,6,12.0,20.0,3000-4000
+12790,Full HD+,Android 10,Mediatek,4,6,128,POCO,6,13.0,8.0,4000-5000
+20999,Full HD+,Android 10,Snapdragon,4,8,256,POCO,6,64.0,14.093100833965124,4000-5000
+30990,Full HD+,other,Snapdragon,4,8,256,POCO,6,12.0,20.0,3000-4000
+36999,Full HD+,Android 11,Mediatek,5,8,256,POCO,6,64.0,16.0,5000-6000
+18999,Full HD+,Android 10,Snapdragon,4,6,128,POCO,6,64.0,14.093100833965124,4000-5000
+19998,Full HD+,Android 10,Snapdragon,4,6,128,POCO,6,64.0,20.0,5000-6000
+18999,other,Android 11,Snapdragon,5,6,64,POCO,6,64.0,16.0,4000-5000
+6999,Full HD+,Android 12,Mediatek,4,4,64,POCO,6,50.0,8.0,4000-5000
+19999,Full HD+,Android 10,Snapdragon,4,8,128,POCO,6,64.0,20.0,5000-6000
+11480,Full HD+,Android 10,Mediatek,4,6,128,POCO,6,13.0,8.0,4000-5000
+14490,Full HD+,other,Snapdragon,4,6,128,POCO,6,12.0,20.0,3000-4000
+9890,Full HD+,Android 10,Mediatek,4,6,64,POCO,6,13.0,8.0,4000-5000
+13490,Full HD+,other,Snapdragon,4,6,128,POCO,6,12.0,20.0,3000-4000
+12999,Full HD+,Android 13,Mediatek,5,6,128,realme,6,64.0,8.0,4000-5000
+12999,Full HD+,Android 13,Mediatek,5,6,128,realme,6,64.0,8.0,4000-5000
+8999,HD,Android 13,other,4,4,128,realme,6,50.0,5.0,4000-5000
+8499,HD,Android 13,other,4,4,64,realme,6,50.0,5.0,4000-5000
+8499,HD,Android 13,other,4,4,64,realme,6,50.0,5.0,4000-5000
+8999,HD,Android 13,other,4,4,128,realme,6,50.0,5.0,4000-5000
+15999,Full HD+,Android 13,Mediatek,5,8,128,realme,6,108.0,16.0,4000-5000
+15999,Full HD+,Android 13,Mediatek,5,8,128,realme,6,108.0,16.0,4000-5000
+8999,HD,Android 13,other,4,6,64,realme,6,108.0,8.0,4000-5000
+19999,Full HD+,Android 13,Mediatek,5,8,256,realme,6,108.0,16.0,4000-5000
+19999,Full HD+,Android 13,Mediatek,5,8,256,realme,6,108.0,16.0,4000-5000
+9499,HD,Android 13,other,4,6,128,realme,6,108.0,8.0,4000-5000
+9499,HD,Android 13,other,4,6,128,realme,6,108.0,8.0,4000-5000
+8999,HD,Android 13,other,4,6,64,realme,6,108.0,8.0,4000-5000
+26999,Full HD+,Android 14,Snapdragon,5,8,256,realme,6,50.0,16.0,4000-5000
+25999,Full HD+,Android 14,Snapdragon,5,8,128,realme,6,50.0,16.0,4000-5000
+25999,Full HD+,Android 14,Snapdragon,5,8,128,realme,6,50.0,16.0,4000-5000
+8999,HD,Android 13,other,4,4,128,realme,6,108.0,8.0,4000-5000
+26999,Full HD+,Android 14,Snapdragon,5,8,256,realme,6,50.0,16.0,4000-5000
+8999,HD,Android 13,other,4,4,128,realme,6,108.0,8.0,4000-5000
+33999,Full HD+,Android 14,Snapdragon,5,12,256,realme,6,50.0,32.0,4000-5000
+31999,Full HD+,Android 14,Snapdragon,5,8,256,realme,6,50.0,32.0,4000-5000
+29999,Full HD+,Android 14,Snapdragon,5,8,128,realme,6,50.0,32.0,4000-5000
+31999,Full HD+,Android 14,Snapdragon,5,8,256,realme,6,50.0,32.0,4000-5000
+33999,Full HD+,Android 14,Snapdragon,5,12,256,realme,6,50.0,32.0,4000-5000
+33999,Full HD+,Android 14,Snapdragon,5,12,256,realme,6,50.0,32.0,4000-5000
+14499,Full HD+,Android 13,Mediatek,5,6,128,realme,6,50.0,8.0,4000-5000
+11999,Full HD+,Android 13,Mediatek,5,4,128,realme,6,50.0,8.0,4000-5000
+14499,Full HD+,Android 13,Mediatek,5,6,128,realme,6,50.0,8.0,4000-5000
+31999,Full HD+,Android 14,Snapdragon,5,8,256,realme,6,50.0,32.0,4000-5000
+11999,Full HD+,Android 13,Mediatek,5,4,128,realme,6,50.0,8.0,4000-5000
+9999,Full HD+,Android 11,Mediatek,4,4,64,realme,6,50.0,16.0,4000-5000
+25999,Full HD+,Android 12,Mediatek,5,12,256,realme,6,50.0,16.0,4000-5000
+9920,HD,Android 13,other,4,6,64,realme,6,108.0,8.0,4000-5000
+25999,Full HD+,Android 12,Mediatek,5,12,256,realme,6,50.0,16.0,4000-5000
+25999,Full HD+,Android 12,Mediatek,5,12,256,realme,6,50.0,16.0,4000-5000
+7999,HD+,Android 12,other,4,4,64,realme,6,8.0,5.0,4000-5000
+14699,Full HD+,Android 10,Mediatek,4,6,64,realme,6,64.0,16.0,4000-5000
+13999,Full HD+,Android 13,Mediatek,4,8,128,realme,6,64.0,8.0,4000-5000
+13999,Full HD+,Android 13,Mediatek,4,8,128,realme,6,64.0,8.0,4000-5000
+13919,Full HD+,Android 10,Mediatek,4,6,64,realme,6,64.0,16.0,4000-5000
+11999,Full HD+,Android 13,Mediatek,4,6,64,realme,6,64.0,8.0,4000-5000
+13999,Full HD+,Android 13,Mediatek,4,6,64,realme,6,64.0,8.0,4000-5000
+11999,Full HD+,Android 13,Mediatek,4,6,64,realme,6,64.0,8.0,4000-5000
+20999,Full HD+,Android 10,Mediatek,4,8,128,realme,6,64.0,16.0,4000-5000
+8490,HD+,Android 11,other,4,4,64,realme,6,50.0,8.0,4000-5000
+13919,Full HD+,Android 10,Mediatek,4,6,64,realme,6,64.0,16.0,4000-5000
+10999,HD+,other,Mediatek,4,4,64,realme,6,13.0,13.0,4000-5000
+23399,other,Android 13,Mediatek,5,8,128,realme,6,100.0,14.093100833965124,4000-5000
+10999,Full HD+,Android 13,Mediatek,4,4,64,realme,6,64.0,8.0,4000-5000
+15999,Full HD+,Android 10,Mediatek,4,8,128,realme,6,64.0,16.0,4000-5000
+19999,Full HD+,Android 10,Snapdragon,4,8,128,realme,6,64.0,14.093100833965124,4000-5000
+29999,Full HD+,Android 13,Mediatek,5,12,256,realme,6,200.0,32.0,4000-5000
+12499,HD+,Android 10,Snapdragon,4,4,128,realme,6,64.0,16.0,4000-5000
+25999,Full HD+,Android 12,Mediatek,5,12,256,realme,6,50.0,16.0,4000-5000
+8490,HD+,other,Mediatek,4,3,32,realme,6,13.0,13.0,4000-5000
+29999,Full HD+,Android 13,Mediatek,5,12,256,realme,6,200.0,32.0,4000-5000
+8490,HD+,Android 11,other,4,4,64,realme,6,50.0,8.0,4000-5000
+11549,HD+,Android 10,Snapdragon,4,4,64,realme,6,64.0,16.0,4000-5000
+27999,Full HD+,Android 13,Mediatek,5,8,256,realme,6,200.0,32.0,4000-5000
+23999,Full HD+,Android 11,Snapdragon,5,8,128,realme,6,64.0,16.0,4000-5000
+23999,Full HD+,Android 11,Snapdragon,5,8,128,realme,6,64.0,16.0,4000-5000
+16939,Full HD+,Android 10,Snapdragon,4,8,128,realme,6,64.0,32.0,4000-5000
+9490,HD+,Android 11,other,4,4,128,realme,6,50.0,8.0,4000-5000
+8990,HD+,other,Snapdragon,4,2,16,realme,6,13.0,5.0,4000-5000
+10498,Full HD+,Android 11,other,4,4,64,realme,6,50.0,8.0,4000-5000
+11549,HD+,Android 10,Snapdragon,4,4,64,realme,6,64.0,16.0,4000-5000
+8990,Full HD+,Android 11,other,4,4,64,realme,6,50.0,8.0,4000-5000
+10999,Full HD+,Android 11,other,4,4,128,realme,6,50.0,8.0,4000-5000
+10990,HD+,Android 11,Mediatek,4,4,128,realme,6,50.0,8.0,5000-6000
+9653,HD+,Android 11,Mediatek,4,4,64,realme,6,50.0,8.0,5000-6000
+11790,HD+,Android 11,Mediatek,4,4,128,realme,6,50.0,8.0,5000-6000
+8490,HD+,Android 11,other,4,4,64,realme,6,50.0,8.0,4000-5000
+10999,HD+,other,Mediatek,4,3,32,realme,6,13.0,13.0,4000-5000
+9999,HD+,Android 12,other,4,4,64,realme,6,50.0,5.0,4000-5000
+11999,HD+,Android 10,Mediatek,4,4,64,realme,6,48.0,8.0,5000-6000
+8999,HD+,Android 12,other,4,3,32,realme,6,50.0,5.0,4000-5000
+8999,HD+,Android 12,other,4,3,32,realme,6,50.0,5.0,4000-5000
+8999,HD+,Android 12,other,4,3,32,realme,6,50.0,5.0,4000-5000
+15499,Full HD+,Android 11,Mediatek,4,8,128,realme,6,64.0,16.0,4000-5000
+18999,Full HD+,Android 10,Snapdragon,4,6,128,realme,6,64.0,14.093100833965124,4000-5000
+13397,Full HD+,Android 11,Mediatek,4,4,64,realme,6,48.0,16.0,4000-5000
+11999,HD+,Android 10,Mediatek,4,4,64,realme,6,48.0,8.0,5000-6000
+15499,Full HD+,Android 11,Mediatek,4,8,128,realme,6,64.0,16.0,4000-5000
+34999,Full HD+,Android 10,Snapdragon,4,12,256,realme,6,64.0,14.093100833965124,4000-5000
+9999,Full HD+,Android 11,other,4,4,64,realme,6,50.0,8.0,4000-5000
+17999,Full HD+,Android 10,Snapdragon,4,6,64,realme,6,64.0,14.093100833965124,4000-5000
+23999,Full HD+,Android 13,Mediatek,5,8,128,realme,6,100.0,16.0,4000-5000
+16999,Full HD+,Android 10,Mediatek,4,8,128,realme,6,64.0,16.0,4000-5000
+10999,HD+,other,Snapdragon,4,4,64,realme,6,12.0,8.0,4000-5000
+10999,HD+,Android 10,Mediatek,4,4,128,realme,6,48.0,8.0,5000-6000
+8499,HD+,Android 11,other,4,4,64,realme,6,13.0,5.0,4000-5000
+34999,Full HD+,Android 10,Snapdragon,4,12,256,realme,6,64.0,14.093100833965124,4000-5000
+31999,Full HD+,Android 10,Snapdragon,4,8,256,realme,6,64.0,14.093100833965124,4000-5000
+24999,Full HD+,Android 13,Mediatek,5,8,256,realme,6,100.0,16.0,4000-5000
+30049,Full HD+,Android 10,Snapdragon,4,8,256,realme,6,64.0,14.093100833965124,4000-5000
+23999,Full HD+,Android 13,Mediatek,5,8,128,realme,6,100.0,16.0,4000-5000
+8990,HD+,other,Snapdragon,4,2,16,realme,6,13.0,5.0,4000-5000
+19999,Full HD+,Android 12,Mediatek,4,8,128,realme,6,50.0,16.0,4000-5000
+27999,Full HD+,Android 13,Mediatek,5,12,256,realme,6,100.0,16.0,4000-5000
+9999,HD+,Android 11,other,4,4,128,realme,6,50.0,8.0,4000-5000
+15499,Full HD+,Android 11,Mediatek,4,8,128,realme,6,64.0,16.0,4000-5000
+15999,Full HD+,Android 12,Mediatek,4,4,64,realme,6,50.0,16.0,4000-5000
+9999,HD+,Android 10,Snapdragon,4,4,64,realme,6,12.0,8.0,4000-5000
+23999,Full HD+,Android 11,Snapdragon,5,8,128,realme,6,64.0,32.0,4000-5000
+25999,Full HD+,Android 11,Snapdragon,5,8,256,realme,6,64.0,32.0,4000-5000
+7290,HD+,other,Mediatek,4,2,32,realme,6,13.0,5.0,3000-4000
+13380,Full HD+,Android 10,Mediatek,4,6,64,realme,6,48.0,16.0,4000-5000
+13068,Full HD+,Android 10,Mediatek,4,6,64,realme,6,48.0,16.0,4000-5000
+7999,HD+,Android 10,Mediatek,4,3,32,realme,6,13.0,5.0,5000-6000
+8999,HD+,Android 10,Mediatek,4,4,64,realme,6,12.0,5.0,4000-5000
+17999,Full HD+,Android 10,Mediatek,4,8,128,realme,6,48.0,16.0,4000-5000
+33999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,8,256,realme,6,64.0,16.0,4000-5000
+19999,Full HD+,Android 12,Mediatek,4,8,128,realme,6,50.0,16.0,4000-5000
+22999,Full HD+ AMOLED Display,Android 12,Snapdragon,4,8,128,realme,6,108.0,16.0,4000-5000
+8698,HD+,Android 12,other,4,2,32,realme,6,8.0,5.0,4000-5000
+10999,HD+,Android 10,Mediatek,4,3,32,realme,6,13.0,5.0,5000-6000
+20999,Full HD+ AMOLED Display,Android 12,Snapdragon,4,6,128,realme,6,108.0,16.0,4000-5000
+19999,Full HD+,Android 10,Mediatek,5,6,128,realme,6,64.0,16.0,4000-5000
+11999,HD+,other,Snapdragon,4,4,128,realme,6,12.0,8.0,4000-5000
+31999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,8,128,realme,6,64.0,16.0,4000-5000
+13999,Full HD+,Android 11,Mediatek,5,4,64,realme,6,48.0,16.0,4000-5000
+7999,HD+,other,Mediatek,4,2,32,realme,6,13.0,5.0,3000-4000
+29999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,6,128,realme,6,64.0,16.0,4000-5000
+29999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,6,128,realme,6,64.0,16.0,4000-5000
+33999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,8,256,realme,6,64.0,16.0,4000-5000
+20999,Full HD+ AMOLED Display,Android 11,Snapdragon,4,6,128,realme,6,108.0,16.0,4000-5000
+9999,HD+,Android 10,Mediatek,4,3,32,realme,6,13.0,8.0,5000-6000
+27299,Full HD+,Android 10,Snapdragon,5,8,128,realme,6,64.0,14.093100833965124,4000-5000
+8999,HD+,Android 10,Mediatek,4,3,32,realme,6,12.0,5.0,4000-5000
+31899,Full HD+,Android 10,Snapdragon,5,12,256,realme,6,64.0,14.093100833965124,4000-5000
+29999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,6,128,realme,6,64.0,16.0,4000-5000
+24999,Full HD+,Android 13,Mediatek,5,6,128,realme,6,108.0,16.0,4000-5000
+16999,Full HD+,Android 10,Snapdragon,4,6,64,realme,6,64.0,14.093100833965124,4000-5000
+7499,HD+,Android 11,other,4,3,32,realme,6,13.0,5.0,4000-5000
+14499,Full HD+,Android 11,Mediatek,4,6,128,realme,6,64.0,16.0,4000-5000
+7499,HD+,Android 11,other,4,3,32,realme,6,13.0,5.0,4000-5000
+9993,HD+,Android 10,Mediatek,4,3,32,realme,6,13.0,8.0,5000-6000
+20999,Full HD+,other,Snapdragon,4,8,128,realme,6,48.0,16.0,3000-4000
+9888,HD+,Android 10,Mediatek,4,4,64,realme,6,13.0,8.0,5000-6000
+29999,Full HD+,Android 11,Mediatek,5,8,128,realme,6,64.0,16.0,4000-5000
+27999,other,Android 12,Mediatek,5,8,128,realme,6,48.0,14.093100833965124,4000-5000
+17999,Full HD+,other,Snapdragon,4,4,128,realme,6,48.0,16.0,3000-4000
+12490,HD+,Android 10,Mediatek,4,4,128,realme,6,48.0,8.0,5000-6000
+38999,Full HD+,Android 12,Mediatek,5,8,256,realme,6,50.0,16.0,4000-5000
+8999,HD,Android 11,other,4,4,64,realme,6,13.0,5.0,4000-5000
+38999,Full HD+,Android 12,Mediatek,5,8,256,realme,6,50.0,16.0,4000-5000
+17999,Full HD+,Android 10,Mediatek,4,6,64,realme,6,64.0,16.0,4000-5000
+22999,Full HD+ AMOLED Display,Android 12,Snapdragon,4,8,128,realme,6,108.0,16.0,4000-5000
+18490,Full HD+,Android 11,Mediatek,5,8,128,realme,6,64.0,16.0,4000-5000
+38999,Full HD+,Android 12,Mediatek,5,8,256,realme,6,50.0,16.0,4000-5000
+9699,HD+,Android 10,Snapdragon,4,3,32,realme,6,12.0,8.0,4000-5000
+9499,HD+,Android 10,Snapdragon,4,4,64,realme,6,12.0,8.0,4000-5000
+6999,HD+,other,Mediatek,4,2,16,realme,6,13.0,5.0,3000-4000
+36999,Full HD+,Android 12,Mediatek,5,8,128,realme,6,50.0,16.0,4000-5000
+36999,Full HD+,Android 12,Mediatek,5,8,128,realme,6,50.0,16.0,4000-5000
+10999,HD+,other,Snapdragon,4,4,64,realme,6,12.0,8.0,4000-5000
+8999,HD,Android 11,other,4,4,64,realme,6,13.0,5.0,4000-5000
+15999,Full HD+,Android 12,Mediatek,4,4,64,realme,6,50.0,16.0,4000-5000
+8498,HD+,Android 12,other,4,2,32,realme,6,8.0,5.0,4000-5000
+9990,HD+,other,Snapdragon,4,3,32,realme,6,13.0,8.0,4000-5000
+8498,HD+,Android 12,other,4,4,64,realme,6,8.0,5.0,4000-5000
+10990,HD+,Android 10,Mediatek,4,4,64,realme,6,12.0,5.0,4000-5000
+17999,Full HD+,Android 11,Mediatek,5,6,128,realme,6,48.0,16.0,4000-5000
+25999,Full HD+,Android 11,Snapdragon,5,6,128,realme,6,64.0,32.0,4000-5000
+15999,Full HD+,Android 11,Mediatek,5,4,64,realme,6,48.0,16.0,4000-5000
+13990,HD+,Android 11,other,4,4,128,realme,6,50.0,8.0,4000-5000
+6599,HD+,Android 13,Mediatek,4,4,64,REDMI,6,8.0,5.0,4000-5000
+8799,HD+,Android 13,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+5299,HD+,Android 13,Mediatek,4,2,64,REDMI,6,8.0,5.0,4000-5000
+5299,HD+,Android 13,Mediatek,4,2,64,REDMI,6,8.0,5.0,4000-5000
+7999,HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+8799,HD+,Android 13,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+5299,HD+,Android 13,Mediatek,4,2,64,REDMI,6,8.0,5.0,4000-5000
+7999,HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+8799,HD+,Android 13,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+7999,HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+14999,Full HD+,Android 13,Snapdragon,5,8,256,REDMI,6,50.0,8.0,4000-5000
+13499,Full HD+,Android 13,Snapdragon,5,6,128,REDMI,6,50.0,8.0,4000-5000
+13499,Full HD+,Android 13,Snapdragon,5,6,128,REDMI,6,50.0,8.0,4000-5000
+14999,Full HD+,Android 13,Snapdragon,5,8,256,REDMI,6,50.0,8.0,4000-5000
+13499,Full HD+,Android 13,Snapdragon,5,6,128,REDMI,6,50.0,8.0,4000-5000
+10499,Full HD+,Android 13,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+14999,Full HD+,Android 13,Snapdragon,5,8,256,REDMI,6,50.0,8.0,4000-5000
+10499,Full HD+,Android 13,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+10499,Full HD+,Android 13,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+5839,HD+,other,Snapdragon,4,2,32,Redmi,5,12.0,5.0,3000-4000
+16825,Full HD+,Android 13,Mediatek,5,6,128,REDMI,6,108.0,14.093100833965124,4000-5000
+7299,HD+,Android 14,Mediatek,4,3,64,REDMI,6,8.0,5.0,4000-5000
+13999,Full HD+,other,Snapdragon,4,4,64,Redmi,6,48.0,13.0,3000-4000
+19876,Full HD+,Android 13,Mediatek,5,8,256,REDMI,6,108.0,14.093100833965124,4000-5000
+7299,HD+,Android 14,Mediatek,4,3,64,REDMI,6,8.0,5.0,4000-5000
+10999,other,Android 13,Snapdragon,4,6,64,REDMI,6,50.0,13.0,4000-5000
+5999,HD,other,Snapdragon,4,2,16,Redmi,5,13.0,5.0,<3000
+11999,Full HD+,other,Snapdragon,4,3,32,Redmi,6,48.0,13.0,3000-4000
+8999,Full HD+,Android 12,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+9299,HD+,Android 14,Mediatek,4,6,128,REDMI,6,8.0,5.0,4000-5000
+11499,HD+,Android 13,Mediatek,4,8,256,REDMI,6,50.0,8.0,4000-5000
+12999,other,Android 13,Snapdragon,4,6,128,REDMI,6,50.0,13.0,4000-5000
+9299,HD+,Android 14,Mediatek,4,6,128,REDMI,6,8.0,5.0,4000-5000
+9480,HD+,Android 12,Mediatek,4,6,128,REDMI,6,50.0,5.0,4000-5000
+5499,HD+,other,Snapdragon,4,2,16,Redmi,5,12.0,5.0,3000-4000
+8899,HD+,other,Snapdragon,4,4,64,Redmi,5,12.0,16.0,3000-4000
+5690,HD+,Android 13,Mediatek,4,2,32,REDMI,6,8.0,5.0,4000-5000
+12999,other,Android 13,Snapdragon,4,6,128,REDMI,6,50.0,13.0,4000-5000
+8299,HD+,Android 14,Mediatek,4,4,128,REDMI,6,8.0,5.0,4000-5000
+7299,HD+,Android 14,Mediatek,4,3,64,REDMI,6,8.0,5.0,4000-5000
+5690,HD+,Android 13,Mediatek,4,2,32,REDMI,6,8.0,5.0,4000-5000
+8890,HD+,Android 12,Mediatek,4,4,128,REDMI,6,50.0,5.0,4000-5000
+9499,Full HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+9499,Full HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+8299,HD+,Android 14,Mediatek,4,4,128,REDMI,6,8.0,5.0,4000-5000
+8899,HD+,other,Snapdragon,4,4,64,Redmi,5,12.0,16.0,3000-4000
+5690,HD+,Android 13,Mediatek,4,2,32,REDMI,6,8.0,5.0,4000-5000
+8799,HD+,Android 12,Mediatek,4,6,128,REDMI,6,50.0,5.0,4000-5000
+8890,HD+,Android 12,Mediatek,4,4,128,REDMI,6,50.0,5.0,4000-5000
+15499,Full HD+ AMOLED Display,Android 12,Snapdragon,5,4,128,REDMI,6,48.0,13.0,4000-5000
+9299,HD+,Android 14,Mediatek,4,6,128,REDMI,6,8.0,5.0,4000-5000
+7799,HD+,Android 13,Mediatek,4,4,128,REDMI,6,8.0,14.093100833965124,4000-5000
+18999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,8,256,REDMI,6,48.0,13.0,4000-5000
+7795,HD+,Android 13,Mediatek,4,4,128,REDMI,6,8.0,14.093100833965124,4000-5000
+9378,HD+,Android 12,Mediatek,4,6,128,REDMI,6,50.0,5.0,4000-5000
+9480,HD+,Android 12,Mediatek,4,6,128,REDMI,6,50.0,5.0,4000-5000
+16999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,6,128,REDMI,6,48.0,13.0,4000-5000
+8499,HD+,Android 12,Mediatek,4,4,64,REDMI,6,50.0,5.0,4000-5000
+13499,Full HD,Android 13,Snapdragon,5,4,128,REDMI,6,50.0,14.093100833965124,4000-5000
+18999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,8,256,REDMI,6,48.0,13.0,4000-5000
+21999,Full HD+ AMOLED Display,Android 12,Mediatek,5,6,128,REDMI,6,50.0,16.0,4000-5000
+5690,HD+,Android 13,Mediatek,4,2,32,REDMI,6,8.0,5.0,4000-5000
+7950,Full HD,other,Snapdragon,4,3,32,Redmi,5,13.0,5.0,4000-5000
+8499,HD+,Android 12,Mediatek,4,4,64,REDMI,6,50.0,5.0,4000-5000
+7499,HD+,Android 12,Mediatek,4,2,32,REDMI,6,8.0,5.0,4000-5000
+11499,HD+,Android 13,Mediatek,4,8,256,REDMI,6,50.0,8.0,4000-5000
+15998,other,Android 11,Mediatek,4,6,128,REDMI,6,64.0,13.0,4000-5000
+9499,Full HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+13999,Full HD+,Android 10,Snapdragon,4,4,64,REDMI,6,48.0,8.0,5000-6000
+10999,other,Android 13,Snapdragon,4,6,64,REDMI,6,50.0,13.0,4000-5000
+21999,Full HD+ AMOLED Display,Android 12,Mediatek,5,6,128,REDMI,6,50.0,16.0,4000-5000
+9339,Full HD+,Android 12,Mediatek,4,4,64,REDMI,6,50.0,8.0,4000-5000
+29999,Full HD+,Android 12,Mediatek,5,8,256,REDMI,6,64.0,16.0,5000-6000
+8990,HD+,Android 10,Mediatek,4,4,64,REDMI,6,13.0,5.0,4000-5000
+13999,Full HD+,Android 10,Snapdragon,4,4,64,REDMI,6,48.0,8.0,5000-6000
+7800,HD+,Android 13,Mediatek,4,4,128,REDMI,6,8.0,14.093100833965124,4000-5000
+21999,Full HD+ AMOLED Display,Android 12,Mediatek,5,6,128,REDMI,6,50.0,16.0,4000-5000
+8999,HD+,other,Snapdragon,4,3,32,Redmi,6,13.0,8.0,4000-5000
+24999,Full HD+,Android 12,Mediatek,5,6,128,REDMI,6,64.0,16.0,5000-6000
+9299,HD+,Android 10,Mediatek,4,4,128,REDMI,6,13.0,5.0,4000-5000
+16999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,6,128,REDMI,6,48.0,13.0,4000-5000
+9499,Full HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+8299,HD+,Android 14,Mediatek,4,4,128,REDMI,6,8.0,5.0,4000-5000
+5690,HD+,Android 13,Mediatek,4,2,32,REDMI,6,8.0,5.0,4000-5000
+9999,HD+,other,Snapdragon,4,3,64,Redmi,6,13.0,8.0,4000-5000
+10999,HD+,other,Snapdragon,4,4,64,Redmi,6,12.0,8.0,4000-5000
+19999,other,Android 11,Snapdragon,4,6,128,REDMI,6,64.0,16.0,5000-6000
+8499,HD+,Android 12,Mediatek,4,3,32,REDMI,6,8.0,5.0,4000-5000
+12999,HD+,Android 11,Snapdragon,4,6,128,REDMI,6,50.0,5.0,5000-6000
+8777,HD+,Android 12,Mediatek,4,4,128,REDMI,6,50.0,5.0,4000-5000
+27999,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,256,REDMI,6,200.0,16.0,4000-5000
+10999,HD+,Android 11,Snapdragon,4,4,64,REDMI,6,50.0,5.0,5000-6000
+12379,Full HD+,Android 11,Snapdragon,4,4,64,REDMI,6,48.0,13.0,4000-5000
+13999,Full HD+,other,Snapdragon,4,4,64,Redmi,6,48.0,13.0,3000-4000
+8639,HD+,Android 12,Mediatek,4,4,64,REDMI,6,50.0,5.0,4000-5000
+15499,Full HD+ AMOLED Display,Android 12,Snapdragon,5,4,128,REDMI,6,48.0,13.0,4000-5000
+27999,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,256,REDMI,6,200.0,16.0,4000-5000
+16450,Full HD,Android 12,Snapdragon,5,6,128,REDMI,6,48.0,13.0,4000-5000
+7499,HD+,Android 12,Mediatek,4,2,32,REDMI,6,8.0,5.0,4000-5000
+23999,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,256,REDMI,6,50.0,16.0,4000-5000
+9490,HD+,Android 12,Mediatek,4,4,128,REDMI,6,50.0,5.0,4000-5000
+16999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,6,128,REDMI,6,48.0,13.0,4000-5000
+6690,HD,other,Mediatek,4,2,32,Redmi,5,13.0,14.093100833965124,<3000
+7459,HD+,other,Snapdragon,4,2,32,Redmi,6,12.0,8.0,4000-5000
+27999,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,256,REDMI,6,200.0,16.0,4000-5000
+29999,Full HD+,Android 12,Mediatek,5,8,256,REDMI,6,64.0,16.0,5000-6000
+8777,HD+,Android 12,Mediatek,4,4,128,REDMI,6,50.0,5.0,4000-5000
+8299,HD+,Android 14,Mediatek,4,4,128,REDMI,6,8.0,5.0,4000-5000
+12379,Full HD+,Android 11,Snapdragon,4,4,64,REDMI,6,48.0,13.0,4000-5000
+18999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,8,256,REDMI,6,48.0,13.0,4000-5000
+9499,Full HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+27999,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,256,REDMI,6,200.0,16.0,4000-5000
+27999,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,256,REDMI,6,200.0,16.0,4000-5000
+19999,other,Android 11,Snapdragon,4,6,128,REDMI,6,64.0,16.0,5000-6000
+25999,Full HD+ AMOLED Display,Android 12,Mediatek,5,12,256,REDMI,6,50.0,16.0,4000-5000
+27999,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,256,REDMI,6,200.0,16.0,4000-5000
+9490,HD+,Android 12,Mediatek,4,4,128,REDMI,6,50.0,5.0,4000-5000
+25999,Full HD+ AMOLED Display,Android 12,Mediatek,5,12,256,REDMI,6,50.0,16.0,4000-5000
+18999,Full HD+,Android 10,Mediatek,4,6,128,REDMI,6,48.0,13.0,5000-6000
+15990,other,Android 11,Mediatek,4,6,128,REDMI,6,64.0,13.0,4000-5000
+19999,other,Android 11,Snapdragon,4,6,128,REDMI,6,64.0,16.0,5000-6000
+10999,HD+,Android 11,Snapdragon,4,4,64,REDMI,6,50.0,5.0,5000-6000
+13999,Full HD,Android 11,Mediatek,4,6,128,REDMI,6,50.0,8.0,5000-6000
+16499,other,Android 11,Mediatek,4,6,128,REDMI,6,64.0,13.0,4000-5000
+15990,Full HD+,Android 11,Mediatek,5,6,128,REDMI,6,48.0,8.0,4000-5000
+8499,Full HD+,Android 12,Mediatek,4,4,64,REDMI,6,50.0,8.0,4000-5000
+14999,Full HD+,Android 11,Mediatek,4,6,64,REDMI,6,64.0,13.0,4000-5000
+9299,HD+,Android 10,Mediatek,4,4,128,REDMI,6,13.0,5.0,4000-5000
+10999,HD+,Android 11,Snapdragon,4,4,64,REDMI,6,50.0,5.0,5000-6000
+7441,HD+,Android 12,Mediatek,4,4,128,SAMSUNG,6,13.0,14.093100833965124,4000-5000
+7899,HD+,Android 12,Mediatek,4,4,64,SAMSUNG,6,13.0,5.0,4000-5000
+7399,HD+,Android 12,Mediatek,4,4,64,SAMSUNG,6,13.0,14.093100833965124,4000-5000
+13490,Full HD+,Android 13,other,5,6,128,SAMSUNG,6,50.0,13.0,5000-6000
+13490,Full HD+,Android 13,other,5,6,128,SAMSUNG,6,50.0,13.0,5000-6000
+13490,Full HD+,Android 13,other,5,6,128,SAMSUNG,6,50.0,13.0,5000-6000
+29999,Full HD+,Android 13,Snapdragon,5,8,128,other,6,12.0,32.0,4000-5000
+11990,Full HD+,Android 13,other,5,4,128,SAMSUNG,6,50.0,13.0,5000-6000
+29999,Full HD+,Android 13,Snapdragon,5,8,128,other,6,12.0,32.0,4000-5000
+11990,Full HD+,Android 13,other,5,4,128,SAMSUNG,6,50.0,13.0,5000-6000
+33999,Full HD+,Android 13,Snapdragon,5,8,256,other,6,12.0,32.0,4000-5000
+11990,Full HD+,Android 13,other,5,4,128,SAMSUNG,6,50.0,13.0,5000-6000
+24999,Full HD+,Android 13,other,5,8,256,SAMSUNG,6,108.0,32.0,5000-6000
+29999,Full HD+,Android 13,Snapdragon,5,8,128,other,6,12.0,32.0,4000-5000
+17999,Full HD+,Android 13,other,5,8,128,SAMSUNG,6,50.0,13.0,5000-6000
+7673,HD+,Android 12,Mediatek,4,4,128,SAMSUNG,6,13.0,14.093100833965124,4000-5000
+7533,HD+,Android 12,Mediatek,4,4,128,SAMSUNG,6,13.0,14.093100833965124,4000-5000
+15999,Full HD+,Android 13,other,5,6,128,SAMSUNG,6,50.0,13.0,5000-6000
+29999,Full HD+,Android 13,Snapdragon,5,8,128,other,6,12.0,32.0,4000-5000
+15999,Full HD+,Android 13,other,5,6,128,SAMSUNG,6,50.0,13.0,5000-6000
+69999,Full HD+,Android 13,Snapdragon,5,8,256,SAMSUNG,6,50.0,12.0,3000-4000
+39999,Full HD+,Android 12,Snapdragon,5,8,128,SAMSUNG,6,50.0,10.0,3000-4000
+15999,Full HD+,Android 13,other,5,6,128,SAMSUNG,6,50.0,13.0,5000-6000
+26499,Full HD+,Android 13,Mediatek,5,8,256,SAMSUNG,6,48.0,13.0,4000-5000
+17999,Full HD+,Android 13,other,5,8,128,SAMSUNG,6,50.0,13.0,5000-6000
+19499,Full HD+,Android 14,Mediatek,5,8,128,SAMSUNG,6,50.0,13.0,4000-5000
+15999,HD+,Android 13,other,5,6,128,SAMSUNG,6,50.0,13.0,4000-5000
+17999,Full HD+,Android 13,other,5,8,128,SAMSUNG,6,50.0,13.0,5000-6000
+24499,Full HD+,Android 13,Mediatek,5,8,128,SAMSUNG,6,48.0,13.0,4000-5000
+8999,HD+,Android 12,Mediatek,4,4,64,SAMSUNG,6,13.0,5.0,4000-5000
+15999,HD+,Android 13,other,5,6,128,SAMSUNG,6,50.0,13.0,4000-5000
+33999,Full HD+,Android 13,Snapdragon,5,8,256,other,6,12.0,32.0,4000-5000
+9999,Full HD+,Android 12,other,4,4,64,SAMSUNG,6,50.0,8.0,5000-6000
+9999,Full HD+,Android 12,other,4,4,64,SAMSUNG,6,50.0,8.0,5000-6000
+69999,Full HD+,Android 13,Snapdragon,5,8,256,SAMSUNG,6,50.0,12.0,3000-4000
+7999,HD,Android 12,Mediatek,4,4,64,SAMSUNG,6,13.0,5.0,4000-5000
+24499,Full HD+,Android 13,Mediatek,5,8,128,SAMSUNG,6,48.0,13.0,4000-5000
+11499,Full HD+,Android 13,Snapdragon,4,4,128,SAMSUNG,6,50.0,13.0,4000-5000
+26499,Full HD+,Android 13,Mediatek,5,8,256,SAMSUNG,6,48.0,13.0,4000-5000
+39999,Full HD+,Android 12,Snapdragon,5,8,128,SAMSUNG,6,50.0,10.0,3000-4000
+69999,Full HD+,Android 13,Snapdragon,5,8,256,SAMSUNG,6,50.0,12.0,3000-4000
+19499,Full HD+,Android 14,Mediatek,5,8,128,SAMSUNG,6,50.0,13.0,4000-5000
+64999,Full HD+,Android 13,Snapdragon,5,8,128,SAMSUNG,6,50.0,12.0,3000-4000
+24499,Full HD+,Android 13,Mediatek,5,8,128,SAMSUNG,6,48.0,13.0,4000-5000
+79999,Full HD+,Android 14,other,5,8,256,SAMSUNG,6,50.0,12.0,3000-4000
+17999,HD+,Android 13,other,5,8,128,SAMSUNG,6,50.0,13.0,4000-5000
+25990,Full HD+,Android 12,other,5,8,128,SAMSUNG,6,64.0,32.0,4000-5000
+13499,HD+,Android 13,other,5,4,64,SAMSUNG,6,50.0,13.0,4000-5000
+39999,Full HD+,Android 12,Snapdragon,5,8,128,SAMSUNG,6,50.0,10.0,3000-4000
+64999,Full HD+,Android 13,Snapdragon,5,8,128,SAMSUNG,6,50.0,12.0,3000-4000
+9999,Full HD+,Android 12,other,4,4,64,SAMSUNG,6,50.0,8.0,5000-6000
+12999,HD+,Android 12,other,4,4,64,SAMSUNG,6,50.0,5.0,4000-5000
+109999,other,Android 13,Snapdragon,5,8,512,SAMSUNG,6,12.0,10.0,3000-4000
+12999,Full HD+,Android 13,Snapdragon,4,6,128,SAMSUNG,6,50.0,13.0,4000-5000
+39999,Full HD+,Android 12,Snapdragon,5,8,128,SAMSUNG,6,50.0,10.0,3000-4000
+9999,HD+,Android 11,other,4,4,64,SAMSUNG,6,48.0,8.0,5000-6000
+12999,Full HD+,Android 13,Snapdragon,4,6,128,SAMSUNG,6,50.0,13.0,4000-5000
+12999,HD+,Android 12,other,4,4,64,SAMSUNG,6,50.0,5.0,4000-5000
+8290,Full HD+,Android 10,Snapdragon,4,4,64,SAMSUNG,6,13.0,5.0,4000-5000
+7999,HD,Android 12,Mediatek,4,4,64,SAMSUNG,6,13.0,5.0,4000-5000
+79999,Full HD+,Android 14,other,5,8,256,SAMSUNG,6,50.0,12.0,3000-4000
+129999,other,Android 14,Snapdragon,5,12,256,SAMSUNG,6,200.0,12.0,4000-5000
+31990,Full HD+,Android 12,other,5,6,128,SAMSUNG,6,64.0,32.0,4000-5000
+20999,Full HD+,Android 12,Snapdragon,5,6,128,SAMSUNG,6,50.0,8.0,4000-5000
+17999,HD+,Android 13,other,5,8,128,SAMSUNG,6,50.0,13.0,4000-5000
+79999,Full HD+,Android 14,other,5,8,256,SAMSUNG,6,50.0,12.0,3000-4000
+13099,HD+,Android 11,Mediatek,4,6,128,SAMSUNG,6,48.0,13.0,5000-6000
+99999,other,Android 13,Snapdragon,5,8,256,SAMSUNG,6,12.0,10.0,3000-4000
+64999,Full HD+,Android 13,Snapdragon,5,8,128,SAMSUNG,6,50.0,12.0,3000-4000
+59999,Full HD+,Android 13,other,5,8,256,SAMSUNG,6,50.0,10.0,4000-5000
+25990,Full HD+,Android 12,other,5,8,128,SAMSUNG,6,64.0,32.0,4000-5000
+79999,Full HD+,Android 14,other,5,8,256,SAMSUNG,6,50.0,12.0,3000-4000
+15999,HD+,Android 13,other,5,6,128,SAMSUNG,6,50.0,13.0,4000-5000
+164999,other,Android 13,Snapdragon,5,12,512,SAMSUNG,6,50.0,14.093100833965124,4000-5000
+22499,Full HD+,Android 14,Mediatek,5,8,256,SAMSUNG,6,50.0,13.0,4000-5000
+59999,Full HD+,Android 13,other,5,8,256,SAMSUNG,6,50.0,10.0,4000-5000
+22999,Full HD+,Android 12,Snapdragon,5,8,128,SAMSUNG,6,50.0,8.0,4000-5000
+30999,Full HD+,Android 12,other,5,8,256,SAMSUNG,6,64.0,32.0,4000-5000
+7490,Full HD+,Android 10,Snapdragon,4,3,32,SAMSUNG,6,13.0,5.0,4000-5000
+64999,Full HD+,Android 13,Snapdragon,5,8,128,SAMSUNG,6,50.0,12.0,3000-4000
+22990,Full HD+,Android 12,other,5,8,128,SAMSUNG,6,48.0,13.0,4000-5000
+129999,other,Android 14,Snapdragon,5,12,256,SAMSUNG,6,200.0,12.0,4000-5000
+26988,Full HD+,Android 10,other,4,8,128,SAMSUNG,6,12.0,32.0,4000-5000
+22499,Full HD+,Android 14,Mediatek,5,8,256,SAMSUNG,6,50.0,13.0,4000-5000
+11299,HD+,Android 13,Mediatek,4,6,128,SAMSUNG,6,50.0,8.0,4000-5000
+24499,Full HD+,Android 13,Mediatek,5,8,128,SAMSUNG,6,48.0,13.0,4000-5000
+8990,HD+,Android 13,Mediatek,4,4,64,SAMSUNG,6,50.0,8.0,4000-5000
+13499,HD+,Android 13,other,5,4,64,SAMSUNG,6,50.0,13.0,4000-5000
+26499,Full HD+,Android 13,Mediatek,5,8,256,SAMSUNG,6,48.0,13.0,4000-5000
+139999,other,Android 14,Snapdragon,5,12,512,SAMSUNG,6,200.0,12.0,4000-5000
+14599,Full HD+,Android 10,other,4,6,64,SAMSUNG,6,64.0,32.0,5000-6000
+54999,Full HD+,Android 13,other,5,8,128,SAMSUNG,6,50.0,10.0,4000-5000
+19999,Full HD+,Android 11,Mediatek,5,8,128,SAMSUNG,6,64.0,8.0,4000-5000
+16990,Full HD+,Android 10,other,4,6,64,SAMSUNG,6,64.0,32.0,5000-6000
+99999,other,Android 13,Snapdragon,5,12,256,SAMSUNG,6,200.0,12.0,4000-5000
+10499,HD+,Android 11,Mediatek,4,4,64,SAMSUNG,6,48.0,13.0,5000-6000
+18499,Full HD+,Android 12,Snapdragon,5,6,128,SAMSUNG,6,50.0,8.0,4000-5000
+18499,Full HD+,Android 12,Snapdragon,5,6,128,SAMSUNG,6,50.0,8.0,4000-5000
+19499,Full HD+,Android 14,Mediatek,5,8,128,SAMSUNG,6,50.0,13.0,4000-5000
+37499,Full HD+,Android 13,other,5,8,256,SAMSUNG,6,50.0,32.0,4000-5000
+33999,Full HD+,Android 13,Snapdragon,5,8,256,other,6,12.0,32.0,4000-5000
+19990,Full HD+,Android 12,other,4,8,128,SAMSUNG,6,50.0,8.0,4000-5000
+45999,Full HD+,Android 11,Snapdragon,5,8,128,SAMSUNG,6,12.0,10.0,3000-4000
+54999,Full HD+,Android 13,other,5,8,128,SAMSUNG,6,50.0,10.0,4000-5000
+54999,Full HD+,Android 13,other,5,8,128,SAMSUNG,6,50.0,10.0,4000-5000
+119999,other,Android 13,Snapdragon,5,12,512,SAMSUNG,6,200.0,12.0,4000-5000
+26999,Full HD+,Android 14,other,5,8,128,SAMSUNG,6,50.0,13.0,4000-5000
+35499,Full HD+,Android 13,other,5,8,128,SAMSUNG,6,50.0,32.0,4000-5000
+17999,HD+,Android 13,other,5,8,128,SAMSUNG,6,50.0,13.0,4000-5000
+154999,other,Android 13,Snapdragon,5,12,256,SAMSUNG,6,50.0,14.093100833965124,4000-5000
+12999,Full HD+,Android 13,other,4,4,64,SAMSUNG,6,50.0,13.0,4000-5000
+35499,Full HD+,Android 13,other,5,8,128,SAMSUNG,6,50.0,32.0,4000-5000
+99999,other,Android 13,Snapdragon,5,12,256,SAMSUNG,6,200.0,12.0,4000-5000
+13999,Full HD+,Android 12,other,4,4,128,SAMSUNG,6,50.0,8.0,4000-5000
+25490,Full HD+,Android 12,other,5,6,128,SAMSUNG,6,64.0,32.0,4000-5000
+139999,other,Android 14,Snapdragon,5,12,512,SAMSUNG,6,200.0,12.0,4000-5000
+129999,other,Android 14,Snapdragon,5,12,256,SAMSUNG,6,200.0,12.0,4000-5000
+20999,Full HD+,Android 12,Snapdragon,5,6,128,SAMSUNG,6,50.0,8.0,4000-5000
+7899,HD+,Android 11,Mediatek,4,3,32,SAMSUNG,6,13.0,5.0,4000-5000
+39990,other,Android 10,other,4,8,128,SAMSUNG,6,64.0,10.0,4000-5000
+12999,Full HD+,Android 13,other,4,4,64,SAMSUNG,6,50.0,13.0,4000-5000
+26999,Full HD+,Android 14,other,5,8,128,SAMSUNG,6,50.0,13.0,4000-5000
+27990,Full HD+,Android 10,other,4,8,128,SAMSUNG,6,12.0,32.0,4000-5000
+18499,Full HD+,Android 12,Snapdragon,5,6,128,SAMSUNG,6,50.0,8.0,4000-5000
+49990,Full HD+,Android 12,Snapdragon,5,8,128,SAMSUNG,6,108.0,32.0,4000-5000
+24980,Full HD+,Android 12,other,5,6,128,SAMSUNG,6,48.0,13.0,4000-5000
+18999,Full HD+,Android 13,other,5,8,128,SAMSUNG,6,50.0,13.0,4000-5000
+37499,Full HD+,Android 13,other,5,8,256,SAMSUNG,6,50.0,32.0,4000-5000
+26999,Full HD+,Android 14,other,5,8,128,SAMSUNG,6,50.0,13.0,4000-5000
+16499,HD+,Android 11,Mediatek,5,6,128,SAMSUNG,6,48.0,13.0,4000-5000
+99999,other,Android 13,Snapdragon,5,8,256,SAMSUNG,6,12.0,10.0,3000-4000
+12999,Full HD+,Android 13,other,4,4,64,SAMSUNG,6,50.0,13.0,4000-5000
+22999,Full HD+,Android 12,Snapdragon,5,8,128,SAMSUNG,6,50.0,8.0,4000-5000
+25990,Full HD+,Android 12,other,5,8,128,SAMSUNG,6,64.0,32.0,4000-5000
+37499,Full HD+,Android 13,other,5,8,256,SAMSUNG,6,50.0,32.0,4000-5000
+154999,other,Android 13,Snapdragon,5,12,256,SAMSUNG,6,50.0,14.093100833965124,4000-5000
+37499,Full HD+,Android 13,other,5,8,256,SAMSUNG,6,50.0,32.0,4000-5000
+12999,Full HD+,Android 13,other,4,4,64,SAMSUNG,6,50.0,13.0,4000-5000
+164999,other,Android 13,Snapdragon,5,12,512,SAMSUNG,6,50.0,14.093100833965124,4000-5000
+139999,other,Android 14,Snapdragon,5,12,512,SAMSUNG,6,200.0,12.0,4000-5000
+154999,other,Android 13,Snapdragon,5,12,256,SAMSUNG,6,50.0,14.093100833965124,4000-5000
+13499,Full HD+,Android 13,Snapdragon,4,6,128,SAMSUNG,6,50.0,13.0,4000-5000
+9899,HD+,Android 13,Mediatek,4,4,64,SAMSUNG,6,50.0,8.0,4000-5000
+124999,Full HD+,Android 12,Snapdragon,5,12,512,SAMSUNG,7,50.0,10.0,4000-5000
+26999,Full HD+,Android 14,other,5,8,128,SAMSUNG,6,50.0,13.0,4000-5000
+12890,HD+,Android 12,other,4,4,64,SAMSUNG,6,50.0,5.0,4000-5000
+33999,Full HD+,Android 13,Snapdragon,5,8,256,other,6,12.0,32.0,4000-5000
+109999,other,Android 13,Snapdragon,5,8,512,SAMSUNG,6,12.0,10.0,3000-4000
+9899,Full HD+,Android 13,Mediatek,4,4,64,SAMSUNG,6,50.0,8.0,4000-5000
+109999,other,Android 13,Snapdragon,5,8,512,SAMSUNG,6,12.0,10.0,3000-4000
+19999,HD+,Android 10,other,4,6,64,SAMSUNG,6,48.0,13.0,4000-5000
+13499,Full HD+,Android 13,Snapdragon,4,6,128,SAMSUNG,6,50.0,13.0,4000-5000
+89999,Full HD+,Android 14,other,5,8,512,SAMSUNG,6,50.0,12.0,3000-4000
+89999,Full HD+,Android 14,other,5,8,512,SAMSUNG,6,50.0,12.0,3000-4000
+13499,HD+,Android 13,other,5,4,64,SAMSUNG,6,50.0,13.0,4000-5000
+139999,other,Android 14,Snapdragon,5,12,512,SAMSUNG,6,200.0,12.0,4000-5000
+11599,Full HD,other,other,4,3,64,SAMSUNG,5,13.0,8.0,3000-4000
+11290,HD+,Android 13,Mediatek,4,6,128,SAMSUNG,6,50.0,8.0,4000-5000
+164999,other,Android 13,Snapdragon,5,12,512,SAMSUNG,6,50.0,14.093100833965124,4000-5000
+30500,Full HD+,other,Snapdragon,4,8,128,SAMSUNG,6,64.0,32.0,4000-5000
+48500,Full HD+,Android 12,Snapdragon,5,8,256,SAMSUNG,6,108.0,32.0,4000-5000
+11299,HD+,Android 11,other,4,4,128,SAMSUNG,6,48.0,8.0,5000-6000
+54999,Full HD+,Android 13,other,5,8,128,SAMSUNG,6,50.0,10.0,4000-5000
+29999,Full HD+,Android 14,other,5,8,256,SAMSUNG,6,50.0,13.0,4000-5000
+29999,Full HD+,Android 14,other,5,8,256,SAMSUNG,6,50.0,13.0,4000-5000
+19999,Full HD+,Android 11,Mediatek,5,8,128,SAMSUNG,6,64.0,8.0,4000-5000
+12489,HD+,Android 10,other,4,6,64,SAMSUNG,6,48.0,13.0,4000-5000
+99999,other,Android 14,other,5,12,256,SAMSUNG,6,50.0,12.0,4000-5000
+11690,Full HD+,Android 13,Snapdragon,4,4,128,SAMSUNG,6,50.0,13.0,4000-5000
+109999,other,Android 14,other,5,12,512,SAMSUNG,6,50.0,12.0,4000-5000
+119999,other,Android 13,Snapdragon,5,12,512,SAMSUNG,6,200.0,12.0,4000-5000
+99999,other,Android 13,Snapdragon,5,8,256,SAMSUNG,6,12.0,10.0,3000-4000
+14999,Full HD+,Android 13,Mediatek,5,8,128,vivo,6,50.0,8.0,4000-5000
+11999,Full HD+,Android 13,Mediatek,5,4,128,vivo,6,50.0,8.0,4000-5000
+12999,Full HD+,Android 13,Mediatek,5,6,128,vivo,6,50.0,8.0,4000-5000
+12999,Full HD+,Android 13,Mediatek,5,6,128,vivo,6,50.0,8.0,4000-5000
+11999,Full HD+,Android 13,Mediatek,5,4,128,vivo,6,50.0,8.0,4000-5000
+14999,Full HD+,Android 13,Mediatek,5,8,128,vivo,6,50.0,8.0,4000-5000
+14999,Full HD+,Android 13,Mediatek,5,8,128,vivo,6,50.0,8.0,4000-5000
+17999,Full HD+,Android 13,Snapdragon,5,8,128,vivo,6,64.0,16.0,4000-5000
+11999,Full HD+,Android 13,Mediatek,5,4,128,vivo,6,50.0,8.0,4000-5000
+14999,Full HD+,Android 13,Mediatek,5,8,128,vivo,6,50.0,8.0,4000-5000
+12999,Full HD+,Android 13,Mediatek,5,6,128,vivo,6,50.0,8.0,4000-5000
+15999,Full HD+,Android 13,Snapdragon,5,6,128,vivo,6,64.0,16.0,4000-5000
+15999,Full HD+,Android 13,Snapdragon,5,6,128,vivo,6,64.0,16.0,4000-5000
+24999,Full HD+,Android 13,Mediatek,5,8,256,vivo,6,64.0,16.0,4000-5000
+23999,Full HD+,Android 13,Mediatek,5,8,128,vivo,6,64.0,16.0,4000-5000
+24999,Full HD+,Android 13,Mediatek,5,8,256,vivo,6,64.0,16.0,4000-5000
+13999,Full HD+,Android 13,Mediatek,5,4,128,vivo,6,50.0,8.0,4000-5000
+11999,Full HD+,Android 13,Mediatek,4,6,128,vivo,6,50.0,8.0,4000-5000
+11905,Full HD+,Android 13,Mediatek,4,6,128,vivo,6,50.0,8.0,4000-5000
+11628,Full HD+,Android 13,Mediatek,4,6,128,vivo,6,50.0,8.0,4000-5000
+9490,HD+,Android 13,Mediatek,4,4,64,vivo,6,8.0,5.0,4000-5000
+9618,HD+,Android 12,Mediatek,4,4,64,vivo,6,13.0,5.0,4000-5000
+27999,Full HD+,Android 13,Snapdragon,5,8,256,vivo,6,64.0,50.0,4000-5000
+25999,Full HD+,Android 13,Snapdragon,5,8,128,vivo,6,64.0,50.0,4000-5000
+11499,HD+,Android 13,Mediatek,4,4,128,vivo,6,50.0,8.0,4000-5000
+10499,HD+,Android 13,Mediatek,4,4,64,vivo,6,50.0,8.0,4000-5000
+11499,HD+,Android 13,Mediatek,4,4,128,vivo,6,50.0,8.0,4000-5000
+10490,HD+,Android 12,Mediatek,4,3,32,vivo,6,13.0,5.0,4000-5000
+9930,HD+,Android 12,Mediatek,4,3,64,vivo,6,13.0,5.0,4000-5000
+23999,Full HD+,Android 13,Snapdragon,5,8,256,vivo,6,64.0,16.0,4000-5000
+9999,HD+,Android 12,Mediatek,4,4,128,vivo,6,13.0,5.0,4000-5000
+16999,HD+,Android 12,Mediatek,4,4,128,vivo,6,13.0,5.0,4000-5000
+10999,HD+,Android 12,Mediatek,4,3,64,vivo,6,13.0,5.0,4000-5000
+10499,HD+,Android 13,Mediatek,4,4,64,vivo,6,50.0,8.0,4000-5000
+16557,Full HD+,Android 13,Mediatek,5,8,128,vivo,6,50.0,16.0,4000-5000
+9887,HD+,Android 12,Mediatek,4,3,32,vivo,6,13.0,5.0,4000-5000
+32999,Full HD+ AMOLED Display,Android 13,Snapdragon,5,8,128,vivo,6,50.0,50.0,4000-5000
+32999,Full HD+ AMOLED Display,Android 13,Snapdragon,5,8,128,vivo,6,50.0,50.0,4000-5000
+23999,Full HD+,Android 13,Snapdragon,5,8,256,vivo,6,64.0,16.0,4000-5000
+15499,other,Android 13,Mediatek,5,6,128,vivo,6,50.0,8.0,4000-5000
+32999,Full HD+ AMOLED Display,Android 13,Snapdragon,5,8,128,vivo,6,50.0,50.0,4000-5000
+36999,Full HD+ AMOLED Display,Android 13,Snapdragon,5,12,256,vivo,6,50.0,50.0,4000-5000
+36999,Full HD+ AMOLED Display,Android 13,Snapdragon,5,12,256,vivo,6,50.0,50.0,4000-5000
+15499,other,Android 13,Mediatek,5,6,128,vivo,6,50.0,8.0,4000-5000
+16999,other,Android 13,Mediatek,5,8,128,vivo,6,50.0,8.0,4000-5000
+13999,other,Android 13,Mediatek,5,4,128,vivo,6,50.0,8.0,4000-5000
+16999,other,Android 13,Mediatek,5,8,128,vivo,6,50.0,8.0,4000-5000
+14999,Full HD+,Android 13,Snapdragon,4,8,128,vivo,6,50.0,16.0,4000-5000
+15999,Full HD+,Android 13,Mediatek,5,4,128,vivo,6,50.0,16.0,4000-5000
+36999,Full HD+ AMOLED Display,Android 13,Snapdragon,5,12,256,vivo,6,50.0,50.0,4000-5000
+17999,Full HD+,Android 13,Mediatek,5,8,128,vivo,6,50.0,16.0,4000-5000
+8499,HD+,Android 12,Mediatek,4,3,32,vivo,6,8.0,5.0,4000-5000
+13999,other,Android 13,Mediatek,5,4,128,vivo,6,50.0,8.0,4000-5000
+63999,Full HD+,Android 14,Mediatek,5,12,256,vivo,6,50.0,32.0,4000-5000
+63999,Full HD+,Android 14,Mediatek,5,12,256,vivo,6,50.0,32.0,4000-5000
+69999,Full HD+,Android 14,Mediatek,5,16,512,vivo,6,50.0,32.0,4000-5000
+39999,Full HD+ AMOLED Display,Android 13,Mediatek,5,8,256,vivo,6,50.0,50.0,4000-5000
+42999,Full HD+ AMOLED Display,Android 13,Mediatek,5,12,256,vivo,6,50.0,50.0,4000-5000
+69999,Full HD+,Android 14,Mediatek,5,16,512,vivo,6,50.0,32.0,4000-5000
+21999,Full HD+,Android 13,Snapdragon,5,8,128,vivo,6,64.0,16.0,4000-5000
+39999,Full HD+ AMOLED Display,Android 13,Mediatek,5,8,256,vivo,6,50.0,50.0,4000-5000
+20999,Full HD+,Android 14,Snapdragon,5,8,128,vivo,6,50.0,16.0,4000-5000
+20999,Full HD+,Android 14,Snapdragon,5,8,128,vivo,6,50.0,16.0,4000-5000
+21999,Full HD+,Android 13,Snapdragon,5,8,128,vivo,6,64.0,16.0,4000-5000
+23345,Full HD+ AMOLED Display,Android 13,Snapdragon,5,8,256,vivo,6,64.0,16.0,4000-5000
+31490,Full HD+ AMOLED Display,Android 13,Mediatek,5,8,128,vivo,6,50.0,50.0,4000-5000
+36999,Full HD+ AMOLED Display,Android 13,Mediatek,5,12,256,vivo,6,50.0,50.0,4000-5000
+14999,Full HD+,Android 13,Snapdragon,4,8,128,vivo,6,50.0,16.0,4000-5000
+8288,HD+,Android 11,Mediatek,4,2,32,vivo,6,8.0,5.0,4000-5000
+89999,Full HD+,Android 14,Mediatek,5,16,512,vivo,6,50.0,32.0,5000-6000
+15999,Full HD+ AMOLED Display,Android 12,Snapdragon,4,6,128,vivo,6,50.0,16.0,4000-5000
+14499,Full HD+ AMOLED Display,Android 12,Snapdragon,4,4,128,vivo,6,50.0,16.0,4000-5000
+16999,Full HD+,Android 11,Snapdragon,4,8,128,vivo,6,50.0,16.0,4000-5000
+14499,Full HD+ AMOLED Display,Android 12,Snapdragon,4,4,128,vivo,6,50.0,16.0,4000-5000
+19999,Full HD+,Android 14,Snapdragon,5,6,128,vivo,6,50.0,16.0,4000-5000
+19999,Full HD+,Android 14,Snapdragon,5,6,128,vivo,6,50.0,16.0,4000-5000
+16999,Full HD+,Android 11,Snapdragon,4,8,128,vivo,6,50.0,16.0,4000-5000
+15090,Full HD+,Android 13,Mediatek,5,4,128,vivo,6,50.0,16.0,4000-5000
+19990,Full HD+ AMOLED Display,Android 12,Mediatek,4,8,128,vivo,6,50.0,44.0,4000-5000
+27999,Full HD+,Android 12,Mediatek,5,8,128,vivo,6,64.0,50.0,4000-5000
+13999,HD+,Android 11,Mediatek,4,4,64,vivo,6,13.0,8.0,4000-5000
+13900,Full HD+,Android 11,Mediatek,4,8,128,vivo,6,50.0,16.0,4000-5000
+18290,Full HD+,Android 11,Mediatek,4,8,128,vivo,6,64.0,16.0,3000-4000
+15000,Full HD+,Android 11,Mediatek,4,8,128,vivo,6,50.0,16.0,4000-5000
+16999,Full HD+,Android 12,Snapdragon,4,8,128,vivo,6,50.0,16.0,4000-5000
+9999,HD+,Android 12,Mediatek,4,3,64,vivo,6,13.0,8.0,4000-5000
+18890,Full HD+,Android 11,Mediatek,4,8,128,vivo,6,64.0,16.0,3000-4000
+14500,Full HD+,Android 12,Snapdragon,4,4,128,vivo,6,50.0,8.0,4000-5000
+45989,Full HD+ AMOLED Display,Android 13,Mediatek,5,12,256,vivo,6,50.0,50.0,4000-5000
+38890,Full HD+,Android 13,Mediatek,5,8,256,vivo,6,50.0,50.0,4000-5000
+38990,Full HD+,Android 13,Mediatek,5,12,256,vivo,6,50.0,50.0,4000-5000
+34490,Full HD+,Android 13,Mediatek,5,8,128,vivo,6,50.0,50.0,4000-5000
+12989,Full HD+,Android 12,Snapdragon,4,4,128,vivo,6,50.0,8.0,4000-5000
+8974,HD+,Android 12,Mediatek,4,3,32,vivo,6,13.0,8.0,4000-5000
+17999,Full HD+ AMOLED Display,Android 12,Snapdragon,4,8,128,vivo,6,50.0,16.0,4000-5000
+36990,Full HD+,Android 13,Mediatek,5,8,256,vivo,6,50.0,50.0,4000-5000
+34490,Full HD+,Android 13,Mediatek,5,8,128,vivo,6,50.0,50.0,4000-5000
+22990,Full HD+,Android 10,Snapdragon,4,8,128,vivo,6,48.0,32.0,4000-5000
+15490,Full HD+,Android 11,Mediatek,4,8,128,vivo,6,64.0,16.0,4000-5000
+21999,Full HD+,Android 13,Snapdragon,5,8,128,vivo,6,64.0,16.0,4000-5000
+23999,Full HD+,Android 13,Snapdragon,5,8,256,vivo,6,64.0,16.0,4000-5000
+36990,Full HD+,Android 13,Mediatek,5,8,256,vivo,6,50.0,50.0,4000-5000
+13000,Full HD+,Android 12,Snapdragon,4,6,128,vivo,6,50.0,8.0,4000-5000
+38890,Full HD+,Android 13,Mediatek,5,8,256,vivo,6,50.0,50.0,4000-5000
+12999,Full HD+,Android 12,Snapdragon,4,4,128,vivo,6,50.0,8.0,4000-5000
+11999,Full HD+,Android 12,Snapdragon,4,4,64,vivo,6,50.0,8.0,4000-5000
+39990,Full HD+,Android 12,Mediatek,5,12,256,vivo,6,108.0,14.093100833965124,4000-5000
+13990,HD+,Android 11,Mediatek,4,4,64,vivo,6,13.0,14.093100833965124,4000-5000
+34990,Full HD+,Android 12,Mediatek,5,8,128,vivo,6,108.0,14.093100833965124,4000-5000
+34990,Full HD+,Android 12,Mediatek,5,8,128,vivo,6,108.0,14.093100833965124,4000-5000
+25990,Full HD+,Android 12,Mediatek,5,8,128,vivo,6,64.0,14.093100833965124,4000-5000
+15200,Full HD+,Android 11,Snapdragon,4,4,128,vivo,6,50.0,8.0,4000-5000
+13298,HD+,Android 12,Mediatek,4,6,128,vivo,6,50.0,8.0,4000-5000
+14499,HD+,Android 12,Mediatek,4,4,64,vivo,6,50.0,8.0,4000-5000
+23999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,6,128,vivo,6,64.0,16.0,4000-5000
+49990,Full HD+,Android 13,Mediatek,5,12,256,vivo,6,50.0,32.0,4000-5000
+23999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,6,128,vivo,6,64.0,16.0,4000-5000
+34990,Full HD+,Android 12,Mediatek,5,12,256,vivo,6,64.0,14.093100833965124,4000-5000
+27999,Full HD+,Android 12,Mediatek,5,8,128,vivo,6,64.0,50.0,4000-5000
+50390,Full HD+,Android 13,Mediatek,5,12,256,vivo,6,50.0,32.0,4000-5000
+11180,HD+,Android 12,Mediatek,4,3,32,vivo,6,13.0,8.0,4000-5000
+38490,Full HD+ AMOLED Display,Android 13,Mediatek,5,12,256,vivo,6,50.0,50.0,4000-5000
+13990,HD+,Android 11,Mediatek,4,4,64,vivo,6,13.0,14.093100833965124,4000-5000
+27999,Full HD+,Android 12,Mediatek,5,8,128,vivo,6,64.0,50.0,4000-5000
+23999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,6,128,vivo,6,64.0,16.0,4000-5000
+39990,Full HD+,Android 12,Mediatek,5,12,256,vivo,6,108.0,14.093100833965124,4000-5000
+36999,Full HD+ AMOLED Display,Android 13,Mediatek,5,8,128,vivo,6,50.0,50.0,4000-5000
+21990,Full HD+,Android 11,Mediatek,5,8,128,vivo,6,64.0,32.0,3000-4000
+34990,Full HD+,Android 12,Mediatek,5,8,128,vivo,6,108.0,14.093100833965124,4000-5000
+12999,Full HD+,Android 12,Snapdragon,4,4,128,vivo,6,50.0,8.0,4000-5000
+8650,HD+,Android 11,Mediatek,4,2,32,vivo,6,8.0,5.0,4000-5000
+13990,Full HD+,Android 11,Snapdragon,4,4,128,vivo,6,50.0,8.0,4000-5000
+22555,Full HD+ AMOLED Display,Android 12,Snapdragon,5,8,128,vivo,6,64.0,16.0,4000-5000
+21490,Full HD+,Android 11,Mediatek,5,8,128,vivo,6,64.0,32.0,3000-4000
+22899,Full HD+ AMOLED Display,Android 13,Mediatek,5,8,128,vivo,6,64.0,16.0,4000-5000
+21490,Full HD+ AMOLED Display,Android 13,Mediatek,5,8,128,vivo,6,64.0,16.0,4000-5000
+54999,Full HD+,Android 12,Mediatek,5,8,128,vivo,6,50.0,32.0,4000-5000
+48500,Full HD+,Android 13,Mediatek,5,8,256,vivo,6,50.0,32.0,4000-5000
+59999,other,Android 12,Snapdragon,5,12,256,vivo,6,50.0,32.0,4000-5000
+59490,Full HD+,Android 13,Mediatek,5,12,256,vivo,6,50.0,32.0,4000-5000
+29999,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,128,vivo,6,50.0,44.0,4000-5000
+15200,Full HD+,Android 11,Snapdragon,4,4,128,vivo,6,50.0,8.0,4000-5000
+42990,Full HD+,Android 12,Mediatek,5,12,256,vivo,6,108.0,14.093100833965124,4000-5000
+35999,Full HD+,Android 12,Mediatek,5,8,128,vivo,6,64.0,32.0,4000-5000
+39999,Full HD+,Android 12,Mediatek,5,12,256,vivo,6,64.0,32.0,4000-5000
+21479,Full HD+ AMOLED Display,Android 12,Snapdragon,5,8,128,vivo,6,64.0,16.0,4000-5000
+16998,Full HD+,Android 12,Snapdragon,4,8,128,vivo,6,50.0,16.0,4000-5000
+14498,Full HD+,Android 12,Snapdragon,4,4,64,vivo,6,50.0,8.0,4000-5000
+28990,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,128,vivo,6,50.0,44.0,4000-5000
+24990,Full HD+,other,Snapdragon,4,8,128,vivo,6,48.0,32.0,4000-5000
+12498,Full HD+,Android 12,Snapdragon,4,6,128,vivo,6,50.0,8.0,4000-5000
+35999,Full HD+,Android 12,Mediatek,5,8,128,vivo,6,64.0,32.0,4000-5000
+19990,Full HD+,other,Snapdragon,4,6,128,vivo,6,12.0,12.0,3000-4000
+21999,Full HD+ AMOLED Display,Android 13,Snapdragon,5,8,128,vivo,6,64.0,16.0,4000-5000
+34990,Full HD+,Android 11,Snapdragon,5,8,128,vivo,6,48.0,32.0,4000-5000
+25990,other,Android 10,Snapdragon,4,8,256,vivo,6,48.0,32.0,4000-5000
+46990,Full HD+,Android 11,Snapdragon,5,12,256,vivo,6,48.0,32.0,4000-5000
+11490,HD+,Android 10,Snapdragon,4,3,64,vivo,6,13.0,8.0,4000-5000
+13480,HD+,Android 11,Mediatek,4,4,64,vivo,6,13.0,8.0,4000-5000
+30990,Full HD+,Android 10,Snapdragon,4,8,128,vivo,6,48.0,14.093100833965124,4000-5000
+11990,HD+,Android 11,Snapdragon,4,3,64,vivo,6,13.0,8.0,4000-5000
+14999,HD+,Android 10,Snapdragon,4,3,64,vivo,6,13.0,8.0,4000-5000
+44990,other,Android 10,Snapdragon,4,8,256,vivo,6,48.0,32.0,4000-5000
+9990,HD+,other,Snapdragon,4,3,32,vivo,6,13.0,8.0,4000-5000
+27199,Full HD+,Android 13,Snapdragon,5,8,256,vivo,6,64.0,16.0,4000-5000
+27990,Full HD+,other,Snapdragon,4,8,128,vivo,6,48.0,32.0,4000-5000
+9990,HD+,other,Mediatek,4,2,32,vivo,6,13.0,5.0,4000-5000
+24999,Full HD+ AMOLED Display,Android 13,Mediatek,5,8,128,vivo,6,64.0,16.0,4000-5000
+9990,HD+,Android 11,Snapdragon,4,3,32,vivo,6,13.0,8.0,4000-5000
+16490,Full HD+,Android 11,Snapdragon,4,6,128,vivo,6,48.0,16.0,4000-5000
+9990,HD+,Android 11,Snapdragon,4,3,32,vivo,6,13.0,8.0,4000-5000
+14990,HD+,Android 11,Mediatek,4,6,128,vivo,6,13.0,8.0,4000-5000
+16999,HD+,Android 10,Snapdragon,4,6,64,vivo,6,13.0,8.0,4000-5000
+10990,HD+,Android 11,Snapdragon,4,3,64,vivo,6,13.0,8.0,4000-5000
+24990,Full HD+,other,Mediatek,4,6,64,vivo,6,16.0,25.0,3000-4000
+14990,HD,other,Mediatek,4,3,32,vivo,5,13.0,16.0,<3000
+8799,HD+,Android 13,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+6599,HD+,Android 13,Mediatek,4,4,64,REDMI,6,8.0,5.0,4000-5000
+5299,HD+,Android 13,Mediatek,4,2,64,REDMI,6,8.0,5.0,4000-5000
+5299,HD+,Android 13,Mediatek,4,2,64,REDMI,6,8.0,5.0,4000-5000
+8799,HD+,Android 13,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+5299,HD+,Android 13,Mediatek,4,2,64,REDMI,6,8.0,5.0,4000-5000
+7999,HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+7999,HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+7999,HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+14999,Full HD+,Android 13,Snapdragon,5,8,256,REDMI,6,50.0,8.0,4000-5000
+10499,Full HD+,Android 13,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+13499,Full HD+,Android 13,Snapdragon,5,6,128,REDMI,6,50.0,8.0,4000-5000
+14999,Full HD+,Android 13,Snapdragon,5,8,256,REDMI,6,50.0,8.0,4000-5000
+13499,Full HD+,Android 13,Snapdragon,5,6,128,REDMI,6,50.0,8.0,4000-5000
+10499,Full HD+,Android 13,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+10499,Full HD+,Android 13,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+13499,Full HD+,Android 13,Snapdragon,5,6,128,REDMI,6,50.0,8.0,4000-5000
+16825,Full HD+,Android 13,Mediatek,5,6,128,REDMI,6,108.0,14.093100833965124,4000-5000
+7299,HD+,Android 14,Mediatek,4,3,64,REDMI,6,8.0,5.0,4000-5000
+19876,Full HD+,Android 13,Mediatek,5,8,256,REDMI,6,108.0,14.093100833965124,4000-5000
+8999,Full HD+,Android 12,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+10999,other,Android 13,Snapdragon,4,6,64,REDMI,6,50.0,13.0,4000-5000
+12999,other,Android 13,Snapdragon,4,6,128,REDMI,6,50.0,13.0,4000-5000
+10999,other,Android 13,Snapdragon,4,6,64,REDMI,6,50.0,13.0,4000-5000
+7299,HD+,Android 14,Mediatek,4,3,64,REDMI,6,8.0,5.0,4000-5000
+12999,other,Android 13,Snapdragon,4,6,128,REDMI,6,50.0,13.0,4000-5000
+11499,HD+,Android 13,Mediatek,4,8,256,REDMI,6,50.0,8.0,4000-5000
+9480,HD+,Android 12,Mediatek,4,6,128,REDMI,6,50.0,5.0,4000-5000
+9299,HD+,Android 14,Mediatek,4,6,128,REDMI,6,8.0,5.0,4000-5000
+9299,HD+,Android 14,Mediatek,4,6,128,REDMI,6,8.0,5.0,4000-5000
+5690,HD+,Android 13,Mediatek,4,2,32,REDMI,6,8.0,5.0,4000-5000
+9990,HD+,Android 12,Mediatek,4,4,128,REDMI,6,50.0,5.0,4000-5000
+8299,HD+,Android 14,Mediatek,4,4,128,REDMI,6,8.0,5.0,4000-5000
+15499,Full HD+ AMOLED Display,Android 12,Snapdragon,5,4,128,REDMI,6,48.0,13.0,4000-5000
+7299,HD+,Android 14,Mediatek,4,3,64,REDMI,6,8.0,5.0,4000-5000
+9299,HD+,Android 14,Mediatek,4,6,128,REDMI,6,8.0,5.0,4000-5000
+8999,Full HD+,Android 12,Mediatek,4,6,128,REDMI,6,50.0,8.0,4000-5000
+18999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,8,256,REDMI,6,48.0,13.0,4000-5000
+18999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,8,256,REDMI,6,48.0,13.0,4000-5000
+7795,HD+,Android 13,Mediatek,4,4,128,REDMI,6,8.0,14.093100833965124,4000-5000
+16999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,6,128,REDMI,6,48.0,13.0,4000-5000
+8499,HD+,Android 12,Mediatek,4,4,64,REDMI,6,50.0,5.0,4000-5000
+7799,HD+,Android 13,Mediatek,4,4,128,REDMI,6,8.0,14.093100833965124,4000-5000
+8499,HD+,Android 12,Mediatek,4,4,64,REDMI,6,50.0,5.0,4000-5000
+13499,Full HD,Android 13,Snapdragon,5,4,128,REDMI,6,50.0,14.093100833965124,4000-5000
+9378,HD+,Android 12,Mediatek,4,6,128,REDMI,6,50.0,5.0,4000-5000
+8848,HD+,Android 12,Mediatek,4,6,128,REDMI,6,50.0,5.0,4000-5000
+21999,Full HD+ AMOLED Display,Android 12,Mediatek,5,6,128,REDMI,6,50.0,16.0,4000-5000
+13808,Full HD+,Android 11,Snapdragon,4,6,128,other,6,64.0,16.0,4000-5000
+9499,Full HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+15998,other,Android 11,Mediatek,4,6,128,REDMI,6,64.0,13.0,4000-5000
+13999,Full HD+,Android 10,Snapdragon,4,4,64,REDMI,6,48.0,8.0,5000-6000
+8299,HD+,Android 14,Mediatek,4,4,128,REDMI,6,8.0,5.0,4000-5000
+17490,other,Android 11,Snapdragon,4,6,128,REDMI,6,64.0,16.0,5000-6000
+10999,other,Android 13,Snapdragon,4,6,64,REDMI,6,50.0,13.0,4000-5000
+9990,HD+,Android 12,Mediatek,4,4,128,REDMI,6,50.0,5.0,4000-5000
+9499,Full HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+13999,Full HD+,Android 10,Snapdragon,4,4,64,REDMI,6,48.0,8.0,5000-6000
+10999,other,Android 13,Snapdragon,4,6,64,REDMI,6,50.0,13.0,4000-5000
+21999,Full HD+ AMOLED Display,Android 12,Mediatek,5,6,128,REDMI,6,50.0,16.0,4000-5000
+13999,Full HD+,Android 10,Snapdragon,4,4,64,REDMI,6,48.0,8.0,5000-6000
+8684,HD+,Android 12,Mediatek,4,4,128,REDMI,6,50.0,5.0,4000-5000
+5839,HD+,other,Snapdragon,4,2,32,Redmi,5,12.0,5.0,3000-4000
+16999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,6,128,REDMI,6,48.0,13.0,4000-5000
+8299,HD+,Android 14,Mediatek,4,4,128,REDMI,6,8.0,5.0,4000-5000
+8499,HD+,Android 12,Mediatek,4,3,32,REDMI,6,8.0,5.0,4000-5000
+24999,Full HD+,Android 12,Mediatek,5,6,128,REDMI,6,64.0,16.0,5000-6000
+16999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,6,128,REDMI,6,48.0,13.0,4000-5000
+17490,other,Android 11,Snapdragon,4,6,128,REDMI,6,64.0,16.0,5000-6000
+5499,HD+,other,Snapdragon,4,2,16,Redmi,5,12.0,5.0,3000-4000
+22999,Full HD+ AMOLED Display,Android 11,Mediatek,5,8,128,other,6,108.0,16.0,5000-6000
+16450,Full HD,Android 12,Snapdragon,5,6,128,REDMI,6,48.0,13.0,4000-5000
+16999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,6,128,REDMI,6,48.0,13.0,4000-5000
+9299,HD+,Android 10,Mediatek,4,4,128,REDMI,6,13.0,5.0,4000-5000
+5999,HD,other,Snapdragon,4,2,16,Redmi,5,13.0,5.0,<3000
+11999,Full HD+,other,Snapdragon,4,3,32,Redmi,6,48.0,13.0,3000-4000
+14999,Full HD+,Android 11,Mediatek,4,6,64,REDMI,6,64.0,13.0,4000-5000
+13749,Full HD+,Android 11,Snapdragon,4,6,128,other,6,64.0,16.0,4000-5000
+15499,Full HD+ AMOLED Display,Android 12,Snapdragon,5,4,128,REDMI,6,48.0,13.0,4000-5000
+35999,Full HD+,Android 10,Snapdragon,5,6,128,other,6,64.0,20.0,4000-5000
+22999,Full HD+ AMOLED Display,Android 11,Mediatek,5,8,128,other,6,108.0,16.0,5000-6000
+23999,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,256,REDMI,6,50.0,16.0,4000-5000
+5690,HD+,Android 13,Mediatek,4,2,32,REDMI,6,8.0,5.0,4000-5000
+18499,other,Android 11,Mediatek,4,8,128,REDMI,6,64.0,13.0,4000-5000
+8777,HD+,Android 12,Mediatek,4,4,128,REDMI,6,50.0,5.0,4000-5000
+12379,Full HD+,Android 11,Snapdragon,4,4,64,REDMI,6,48.0,13.0,4000-5000
+24999,Full HD+ AMOLED Display,Android 11,Mediatek,5,6,128,other,6,108.0,16.0,5000-6000
+7999,HD+,other,Snapdragon,4,2,32,Redmi,6,12.0,8.0,4000-5000
+18999,Full HD+ AMOLED Display,Android 12,Snapdragon,5,8,256,REDMI,6,48.0,13.0,4000-5000
+9499,Full HD+,Android 13,Mediatek,4,4,128,REDMI,6,50.0,8.0,4000-5000
+23999,Full HD+,Android 10,Snapdragon,5,8,128,other,6,64.0,20.0,4000-5000
+5839,HD+,other,Snapdragon,4,2,32,Redmi,5,12.0,5.0,3000-4000
+27999,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,256,REDMI,6,200.0,16.0,4000-5000
+26899,Full HD+,Android 10,Snapdragon,5,8,128,other,6,108.0,20.0,4000-5000
+27999,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,256,REDMI,6,200.0,16.0,4000-5000
+19999,other,Android 11,Snapdragon,4,6,128,REDMI,6,64.0,16.0,5000-6000
+27999,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,256,REDMI,6,200.0,16.0,4000-5000
+23999,Full HD+ AMOLED Display,Android 12,Mediatek,5,8,256,REDMI,6,50.0,16.0,4000-5000
+8299,HD+,Android 14,Mediatek,4,4,128,REDMI,6,8.0,5.0,4000-5000
+25999,Full HD+ AMOLED Display,Android 12,Mediatek,5,12,256,REDMI,6,50.0,16.0,4000-5000
+25999,Full HD+ AMOLED Display,Android 12,Mediatek,5,12,256,REDMI,6,50.0,16.0,4000-5000
+9490,HD+,Android 12,Mediatek,4,4,128,REDMI,6,50.0,5.0,4000-5000
+7950,Full HD,other,Snapdragon,4,3,32,Redmi,5,13.0,5.0,4000-5000
+10999,HD+,Android 11,Snapdragon,4,4,64,REDMI,6,50.0,5.0,5000-6000
+11499,Full HD+,other,Snapdragon,4,4,64,other,5,20.0,20.0,3000-4000
+12999,HD+,Android 11,Snapdragon,4,6,128,REDMI,6,50.0,5.0,5000-6000
+18999,Full HD+,Android 10,Mediatek,4,6,128,REDMI,6,48.0,13.0,5000-6000
+16990,Full HD+,Android 11,Snapdragon,4,8,128,other,6,64.0,16.0,4000-5000
+23999,Full HD+,Android 11,Snapdragon,4,8,128,other,6,64.0,16.0,4000-5000
+7950,Full HD,other,Snapdragon,4,3,32,Redmi,5,13.0,5.0,4000-5000
+14999,other,Android 11,Mediatek,4,6,64,REDMI,6,64.0,13.0,4000-5000
+14290,Full HD+,Android 10,Mediatek,4,4,128,REDMI,6,48.0,13.0,5000-6000
+10999,HD+,Android 11,Snapdragon,4,4,64,REDMI,6,50.0,5.0,5000-6000
+24999,Full HD+ AMOLED Display,Android 11,Mediatek,5,6,128,other,6,108.0,16.0,5000-6000
+8999,HD+,other,Mediatek,4,3,32,Redmi,5,12.0,5.0,<3000
+8190,HD+,Android 10,Mediatek,4,3,32,Redmi,6,13.0,5.0,4000-5000
+13999,Full HD,Android 11,Mediatek,4,6,128,REDMI,6,50.0,8.0,5000-6000
+10999,HD+,other,Snapdragon,4,4,64,Redmi,6,12.0,8.0,4000-5000
+26999,Full HD+ AMOLED Display,Android 11,Mediatek,5,6,128,other,6,108.0,16.0,4000-5000
+10999,HD+,Android 10,Snapdragon,4,4,64,Redmi,6,13.0,5.0,4000-5000
+14999,Full HD+,Android 11,Mediatek,5,4,64,REDMI,6,48.0,8.0,4000-5000
+10990,HD+,Android 11,Mediatek,4,6,128,REDMI,6,13.0,5.0,4000-5000
+15990,other,Android 11,Mediatek,4,6,128,REDMI,6,64.0,13.0,4000-5000
+16888,Full HD+,Android 11,Mediatek,5,6,128,REDMI,6,48.0,8.0,4000-5000
+15990,Full HD+,Android 11,Mediatek,5,6,128,REDMI,6,48.0,8.0,4000-5000
+9999,HD+,other,Snapdragon,4,3,64,Redmi,6,13.0,8.0,4000-5000
+14999,Full HD+,Android 11,Mediatek,4,6,64,REDMI,6,64.0,13.0,4000-5000
+8999,HD+,Android 11,Mediatek,4,4,64,REDMI,6,13.0,5.0,4000-5000
+13999,Full HD+,other,Snapdragon,4,4,64,Redmi,6,48.0,13.0,3000-4000
+6690,HD,other,Mediatek,4,2,32,Redmi,5,13.0,14.093100833965124,<3000
+47999,Full HD+,Android 10,Snapdragon,5,8,128,other,6,108.0,20.0,4000-5000
+24999,Full HD+,Android 12,Mediatek,5,6,128,REDMI,6,64.0,16.0,5000-6000
+10999,HD+,Android 11,Snapdragon,4,4,64,REDMI,6,50.0,5.0,5000-6000

@@ -13,8 +13,8 @@ class PredictPipeline:
 
         try:
             logging.info('Prediction pipeline started')
-            preprocessor_path = os.path.join('artifacts/laptop','preprocessor.pkl')
-            model_path = os.path.join('artifacts/laptop','model.pkl')
+            preprocessor_path = os.path.join('artifacts/laptop','preprocessor_laptop.pkl')
+            model_path = os.path.join('artifacts/laptop','model_laptop.pkl')
 
             preprocessor = load_object(preprocessor_path)
             model = load_object(model_path)

@@ -12,7 +12,7 @@ import numpy as np
 
 @dataclass
 class DataTransformationConfig:
-    preprocessor_path_config:str = os.path.join('artifacts/laptop','preprocessor.pkl')
+    preprocessor_path_config:str = os.path.join('artifacts/laptop','preprocessor_laptop.pkl')
 
 class DataTransformation:
 
@@ -49,7 +49,7 @@ class DataTransformation:
         try:
             train_df = pd.read_csv(train_data)
             test_df = pd.read_csv(test_data)
-            pipe = load_object("artifacts\laptop\pipe.pkl")
+            #pipe = load_object("artifacts\laptop\pipe.pkl")
 
             logging.info(train_df.shape)
             

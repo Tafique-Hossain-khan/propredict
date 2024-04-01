@@ -13,7 +13,7 @@ from sklearn.model_selection import cross_val_score
 
 @dataclass 
 class ModelTranerConfig:
-    modelpath:str = os.path.join('artifacts\laptop','model.pkl')
+    modelpath:str = os.path.join('artifacts\laptop','model_laptop.pkl')
 
 
 class ModelTraner:

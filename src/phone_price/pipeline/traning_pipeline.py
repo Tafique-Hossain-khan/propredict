@@ -25,7 +25,7 @@ if __name__ == "__main__":
 
 
 
-        ci = CustomInput('Full HD+',	'Android 11','Snapdragon',	'4',	6	,128	,'vivo'	,'6',	48.0	,16.0,	'4000-5000')
+        ci = CustomInput('Full HD+',	'Android 11','Snapdragon',	4,	6	,128	,'vivo'	,'6',	48.0	,16.0,	'4000-5000')
         df = ci.custome_dataset()
         logging.info(df)
 

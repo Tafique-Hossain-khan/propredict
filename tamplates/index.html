@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Phone Price Predictor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Mobile Phone Price Predictor</h1>
+    <form action="/predict" method="post">
+        <label for="display_res_type">Display Type:</label>
+        <select name="display_res_type" id="display_res_type">
+            <option value="other">Other</option>
+            <option value="Full HD+">Full HD+</option>
+            <option value="Full HD+ AMOLED Display">Full HD+ AMOLED Display</option>
+            <option value="Full HD">Full HD</option>
+            <option value="HD">HD</option>
+            <option value="HD+">HD+</option>
+        </select>
+
+        <label for="os">Operating System:</label>
+        <select name="os" id="os">
+            <option value="other">Other</option>
+            <option value="Android 13">Android 13</option>
+            <option value="Android 14">Android 14</option>
+            <option value="Android 12">Android 12</option>
+            <option value="Android 11">Android 11</option>
+            <option value="Android 10">Android 10</option>
+        </select>
+
+        <label for="processor_brand">Processor Brand:</label>
+        <select name="processor_brand" id="processor_brand">
+            <option value="other">Other</option>
+            <option value="Snapdragon">Snapdragon</option>
+            <option value="Mediatek">Mediatek</option>
+        </select>
+
+        <label for="connectivity_feature">Connectivity Feature:</label>
+        <input type="number" name="connectivity_feature" id="connectivity_feature" min="1" max="5">
+
+        <label for="ram">RAM:</label>
+        <select name="ram" id="ram">
+            <option value="12">12 GB</option>
+            <option value="8">8 GB</option>
+            <option value="6">6 GB</option>
+            <option value="4">4 GB</option>
+            <option value="3">3 GB</option>
+            <option value="2">2 GB</option>
+            <option value="1">1 GB</option>
+            <option value="16">16 GB</option>
+        </select>
+
+        <label for="internal_storage">Internal Storage:</label>
+        <select name="internal_storage" id="internal_storage">
+            <option value="128">128 GB</option>
+            <option value="256">256 GB</option>
+            <option value="64">64 GB</option>
+            <option value="32">32 GB</option>
+            <option value="16">16 GB</option>
+            <option value="8">8 GB</option>
+            <option value="512">512 GB</option>
+        </select>
+
+        <label for="mobile_brand">Mobile Brand:</label>
+        <select name="mobile_brand" id="mobile_brand">
+            <option value="other">Other</option>
+            <option value="Honor">Honor</option>
+            <option value="Infinix">Infinix</option>
+            <option value="Motorola">Motorola</option>
+            <option value="OPPO">OPPO</option>
+            <option value="POCO">POCO</option>
+            <option value="realme">realme</option>
+            <option value="REDMI">REDMI</option>
+            <option value="Redmi">Redmi</option>
+            <option value="SAMSUNG">SAMSUNG</option>
+            <option value="vivo">vivo</option>
+        </select>
+
+        <label for="display_size_in_inches">Display Size (in inches):</label>
+        <select name="display_size_in_inches" id="display_size_in_inches">
+            <option value="6">6 inches</option>
+            <option value="5">5 inches</option>
+            <option value="7">7 inches</option>
+        </select>
+
+        <label for="back_camera">Back Camera:</label>
+        <input type="number" name="back_camera" id="back_camera" step="0.1" min="0">
+
+        <label for="front_camera">Front Camera:</label>
+        <input type="number" name="front_camera" id="front_camera" step="0.1" min="0">
+
+        <label for="battery_category">Battery Category:</label>
+        <select name="battery_category" id="battery_category">
+            <option value="4000-5000">4000-5000 mAh</option>
+            <option value="5000-6000">5000-6000 mAh</option>
+            <option value="<3000">Less than 3000 mAh</option>
+            <option value="3000-4000">3000-4000 mAh</option>
+        </select>
+
+        <button type="submit">Predict Price</button>
+    </form>
+</body>
+</html>

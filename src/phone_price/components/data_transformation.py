@@ -76,6 +76,7 @@ class DataTransformation:
 
             save_object(self.path.preprocessor_path,preprocessor)
             logging.info("preprocessor obj saved in artifacts")
+
             return(
                 train_arr,
                 test_arr
@@ -83,6 +84,7 @@ class DataTransformation:
         
         except Exception as e:
             raise CustomException(e,sys)
+
 
 
 

@@ -4,11 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mobile Phone Price Predictor</title>
-    <link rel="stylesheet" href="style.css">
+    
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
 </head>
 <body>
     <h1>Mobile Phone Price Predictor</h1>
-    <form action="/predict" method="post">
+    <form action="/predict-phone" method="post">
         <label for="display_res_type">Display Type:</label>
         <select name="display_res_type" id="display_res_type">
             <option value="other">Other</option>
@@ -37,30 +39,13 @@
         </select>
 
         <label for="connectivity_feature">Connectivity Feature:</label>
-        <input type="number" name="connectivity_feature" id="connectivity_feature" min="1" max="5">
+        <input type="number" name="connectivity_feature" id="connectivity_feature" step="1" min="0">
 
         <label for="ram">RAM:</label>
-        <select name="ram" id="ram">
-            <option value="12">12 GB</option>
-            <option value="8">8 GB</option>
-            <option value="6">6 GB</option>
-            <option value="4">4 GB</option>
-            <option value="3">3 GB</option>
-            <option value="2">2 GB</option>
-            <option value="1">1 GB</option>
-            <option value="16">16 GB</option>
-        </select>
+        <input type="number" name="ram" id="ram" step="1" min="0">
 
         <label for="internal_storage">Internal Storage:</label>
-        <select name="internal_storage" id="internal_storage">
-            <option value="128">128 GB</option>
-            <option value="256">256 GB</option>
-            <option value="64">64 GB</option>
-            <option value="32">32 GB</option>
-            <option value="16">16 GB</option>
-            <option value="8">8 GB</option>
-            <option value="512">512 GB</option>
-        </select>
+        <input type="number" name="internal_storage" id="internal_storage" step="1" min="0">
 
         <label for="mobile_brand">Mobile Brand:</label>
         <select name="mobile_brand" id="mobile_brand">
@@ -78,11 +63,7 @@
         </select>
 
         <label for="display_size_in_inches">Display Size (in inches):</label>
-        <select name="display_size_in_inches" id="display_size_in_inches">
-            <option value="6">6 inches</option>
-            <option value="5">5 inches</option>
-            <option value="7">7 inches</option>
-        </select>
+        <input type="number" name="display_size_in_inches" id="display_size_in_inches" step="0.1" min="0">
 
         <label for="back_camera">Back Camera:</label>
         <input type="number" name="back_camera" id="back_camera" step="0.1" min="0">
@@ -92,13 +73,21 @@
 
         <label for="battery_category">Battery Category:</label>
         <select name="battery_category" id="battery_category">
-            <option value="4000-5000">4000-5000 mAh</option>
-            <option value="5000-6000">5000-6000 mAh</option>
-            <option value="<3000">Less than 3000 mAh</option>
-            <option value="3000-4000">3000-4000 mAh</option>
+        <option value="4000-5000">4000-5000 mAh</option>
+        <option value="5000-6000">5000-6000 mAh</option>
+        <option value="<3000">Less than 3000 mAh</option>
+        <option value="3000-4000">3000-4000 mAh</option>
         </select>
 
         <button type="submit">Predict Price</button>
     </form>
+    {% if prediction_result %}
+<div class="prediction-box">
+    <p>The expected price of the phone is  {{ prediction_result }}</p>
+</div>
+{% endif %}
+
+
+    
 </body>
 </html>

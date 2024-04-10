@@ -33,8 +33,8 @@ class PredictPipeline:
         except Exception as e:
             raise CustomException(e,sys)
         
-class CustomInput:
-        def __init__(self, company, TypeName, Ram, Weight, Touchscreen, IPS, ppi, Cpu_brand, HDD, SSD, Gpu_brand, os):
+class CustomInputLaptop:
+        def __init__(self, company, TypeName, Ram, Weight, Touchscreen, IPS,ppi, Cpu_brand, HDD, SSD, Gpu_brand, os):
             self.company = company
             self.TypeName = TypeName
             self.Ram = Ram

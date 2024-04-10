@@ -5,6 +5,7 @@ import sys
 #from src.phone_price.pipeline.traning_pipeline import TraningPhone
 from src.utils import load_object
 from src.phone_price.pipeline.prediction_pipeline import CustomInput
+from src.laptop_price.pipeline.prediction_pipeling import CustomInputLaptop
 app = Flask(__name__)
 
 @app.route('/')
@@ -27,18 +28,7 @@ def predict_phone():
             back_camera  = request.form.get('back_camera')
             front_camera  = request.form.get('front_camera')
             Battery_Category  = request.form.get('battery_category')
-
-            logging.info(dispaly_res_type)
-            logging.info(os)
-            logging.info(processor_brand)
-            logging.info(connectivity_feature)
-            logging.info(ram)
-            logging.info(internal_storgar)
-            logging.info(mobile_brand)
-            logging.info(f"display size:{dispaly_size_in_inches}")
-            logging.info(back_camera)
-            logging.info(front_camera)
-            logging.info(f"battery categoty{Battery_Category}")
+        
             
             #load the trained model and then do the prediction
             preprocesoor = load_object('artifacts/phone/preprocessor.pkl')
@@ -62,10 +52,40 @@ def predict_phone():
 
 @app.route('/predict-laptop', methods=['GET', 'POST'])
 def predict_laptop():
-    if request.method == 'POST':
-        # Handle form submission for laptop prediction
-        return "Laptop prediction form submitted"
-    return render_template('laptop_form.html')
+    try:
+        if request.method == 'POST':
+            # Handle form submission for laptop prediction
+            company = request.form.get('company')
+            TypeName = request.form.get('typeName')
+            Ram = int(request.form.get('ram'))
+            Weight = float(request.form.get('weight'))
+            Touchscreen = int(request.form.get('touchscreen'))
+            IPS = int(request.form.get('ips'))
+            ppi = float(request.form.get('ppi'))
+            Cpu_brand = request.form.get('cpu_brand')
+            HDD = int(request.form.get('hdd'))
+            SSD = int(request.form.get('ssd'))
+            Gpu_brand = request.form.get('gpu_brand')
+            os = request.form.get('os')
+
+            #get the modela and the preprocessor
+            preprocessor_laptop = load_object('artifacts/laptop/preprocessor_laptop.pkl')
+            model_laptop = load_object('artifacts/laptop/model_laptop.pkl')
+            logging.info("Model loaded")
+            #ci = CustomInput('MSI','Gaming',16,2.43,0,1,'Intel Core i7',1000,256,'Nvidia'	,'Windows')
+            ci1 = CustomInputLaptop(company, TypeName, Ram, Weight, Touchscreen, IPS,ppi, Cpu_brand, HDD, SSD, Gpu_brand, os)
+            df1 = ci1.custom_dataset()
+            logging.info(df1)
+            scaled_data = preprocessor_laptop.transform(df1)
+            logging.info("Data scaling done for laptop")
+            #pred = PredictPipeline()
+            prediction = model_laptop.predict(scaled_data)
+
+        
+            return render_template('laptop_form.html', prediction_result=prediction)
+        return render_template('laptop_form.html')
+    except Exception as e:
+        raise CustomException(e,sys)
 
 if __name__ == '__main__':
     app.run(debug=True)

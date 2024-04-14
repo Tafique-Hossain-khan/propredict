@@ -12,12 +12,12 @@ body {
   font-style: normal;
   background: linear-gradient(
     45deg,
-    #f96c00,
+    #00f9e0,
     #393e46,
     #393e46,
     #393e46,
     #393e46,
-    #f94200
+    #00f9f1
   );
   animation: slide 5s ease-in-out infinite alternate;
   transition: all 0.5s ease-in-out;

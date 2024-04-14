@@ -1,41 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Price Predictor</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-    <style>
-        .icon-container {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 20px;
-        }
-        .icon-link {
-            display: inline-block;
-            padding: 20px;
-            background-color: #007bff;
-            color: #fff;
-            text-decoration: none;
-            border-radius: 5px;
-            transition: background-color 0.3s;
-        }
-        .icon-link:hover {
-            background-color: #0056b3;
-        }
-    </style>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:900" rel="stylesheet">
 </head>
+
 <body>
-    <h1>Price Predictor</h1>
-    <div class="icon-container">
-        
-        <a href="/predict-phone" class="icon-link">
-            <p>Mobile Price Prediction</p>
-        </a>
-        <a href="/predict-laptop" class="icon-link">
-            <p>Laptop Price Prediction</p>
-        </a>
+    <div class="main">
+        <div class="container">
+            <div class="box">
+                <img src="{{url_for('static', filename='propredictlogo.png')}}" alt="logo image">
+                <h1>Pro-Predictor</h1>
+                <p>Get accurate forecasts to make smarter buying or selling decisions.</p>
+                <a href="/predict-phone" class="icon-link">
+                    Mobile Price Prediction
+                </a>
+                <a href="/predict-laptop" class="icon-link">
+                    Laptop Price Prediction
+                </a>
+            </div>
+
+        </div>
     </div>
-</body>
+    
+
 </html>

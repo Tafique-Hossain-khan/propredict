@@ -1,15 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mobile Phone Price Predictor</title>
-    
+    <link href="https://fonts.googleapis.com/css?family=Raleway:900" rel="stylesheet">
+
+
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 
 </head>
+
 <body>
-    <h1>Mobile Phone Price Predictor</h1>
+
+    <span>
+        <h1>Mobile Phone Price Predictor</h1>
+    </span>
     <form action="/predict-phone" method="post">
         <label for="display_res_type">Display Type:</label>
         <select name="display_res_type" id="display_res_type">
@@ -73,21 +80,35 @@
 
         <label for="battery_category">Battery Category:</label>
         <select name="battery_category" id="battery_category">
-        <option value="4000-5000">4000-5000 mAh</option>
-        <option value="5000-6000">5000-6000 mAh</option>
-        <option value="<3000">Less than 3000 mAh</option>
-        <option value="3000-4000">3000-4000 mAh</option>
+            <option value="4000-5000">4000-5000 mAh</option>
+            <option value="5000-6000">5000-6000 mAh</option>
+            <option value="<3000">Less than 3000 mAh</option>
+            <option value="3000-4000">3000-4000 mAh</option>
         </select>
 
-        <button type="submit">Predict Price</button>
+        <button class="predict_btn" type="submit" alt="Predict Price">
+            <i>P</i>
+            <i>r</i>
+            <i>e</i>
+            <i>d</i>
+            <i>i</i>
+            <i>c</i>
+            <i>t</i>
+            <i>P</i>
+            <i>r</i>
+            <i>i</i>
+            <i>c</i>
+            <i>e</i>
+        </button>
     </form>
     {% if prediction_result %}
-<div class="prediction-box">
-    <p>The expected price of the phone is  {{ prediction_result }}</p>
-</div>
-{% endif %}
+    <div class="prediction-box">
+        <p>The expected price of the phone is {{ prediction_result }}</p>
+    </div>
+    {% endif %}
 
 
-    
+
 </body>
+
 </html>

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laptop Price Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <span>
+
+        <h1>Laptop Price Predictor</h1>
+    </span>
+    <form action="/predict-laptop" method="post">
+        <label for="company">Company:</label>
+        <select name="company" id="company">
+            <option value="Apple">Apple</option>
+            <option value="HP">HP</option>
+            <option value="Acer">Acer</option>
+            <option value="Asus">Asus</option>
+            <option value="Dell">Dell</option>
+            <option value="Lenovo">Lenovo</option>
+            <option value="Chuwi">Chuwi</option>
+            <option value="MSI">MSI</option>
+            <option value="Microsoft">Microsoft</option>
+            <option value="Toshiba">Toshiba</option>
+            <option value="Huawei">Huawei</option>
+            <option value="Xiaomi">Xiaomi</option>
+            <option value="Vero">Vero</option>
+            <option value="Razer">Razer</option>
+            <option value="Mediacom">Mediacom</option>
+            <option value="Samsung">Samsung</option>
+            <option value="Google">Google</option>
+            <option value="Fujitsu">Fujitsu</option>
+            <option value="LG">LG</option>
+        </select>
+
+        <label for="typeName">TypeName:</label>
+        <select name="typeName" id="typeName">
+            <option value="Ultrabook">Ultrabook</option>
+            <option value="Notebook">Notebook</option>
+            <option value="Netbook">Netbook</option>
+            <option value="Gaming">Gaming</option>
+            <option value="2 in 1 Convertible">2 in 1 Convertible</option>
+            <option value="Workstation">Workstation</option>
+        </select>
+
+        <label for="ram">RAM (GB):</label>
+        <select name="ram" id="ram">
+            <option value="8">8 GB</option>
+            <option value="16">16 GB</option>
+            <option value="4">4 GB</option>
+            <option value="2">2 GB</option>
+            <option value="12">12 GB</option>
+            <option value="6">6 GB</option>
+            <option value="32">32 GB</option>
+            <option value="24">24 GB</option>
+            <option value="64">64 GB</option>
+        </select>
+
+        <label for="weight">Weight (kg):</label>
+        <input type="number" name="weight" id="weight" min="0" step="0.1" required>
+
+        <label for="touchscreen">Touchscreen:</label>
+        <select name="touchscreen" id="touchscreen">
+            <option value="0">No</option>
+            <option value="1">Yes</option>
+        </select>
+
+        <label for="ips">IPS:</label>
+        <select name="ips" id="ips">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select>
+
+        <label for="ppi">PPI:</label>
+        <input type="number" name="ppi" id="ppi" min="0" required>
+
+        <label for="cpu_brand">CPU Brand:</label>
+        <select name="cpu_brand" id="cpu_brand">
+            <option value="Intel Core i5">Intel Core i5</option>
+            <option value="Intel Core i7">Intel Core i7</option>
+            <option value="AMD Processor">AMD Processor</option>
+            <option value="Intel Core i3">Intel Core i3</option>
+            <option value="Other Intel Processor">Other Intel Processor</option>
+        </select>
+
+        <label for="hdd">HDD (GB):</label>
+        <select name="hdd" id="hdd">
+            <option value="0">0 GB</option>
+            <option value="500">500 GB</option>
+            <option value="1000">1000 GB</option>
+            <option value="2000">2000 GB</option>
+            <option value="32">32 GB</option>
+            <option value="128">128 GB</option>
+        </select>
+
+        <label for="ssd">SSD (GB):</label>
+        <select name="ssd" id="ssd">
+            <option value="128">128 GB</option>
+            <option value="0">0 GB</option>
+            <option value="256">256 GB</option>
+            <option value="512">512 GB</option>
+            <option value="32">32 GB</option>
+            <option value="64">64 GB</option>
+            <option value="1000">1000 GB</option>
+            <option value="1024">1024 GB</option>
+            <option value="16">16 GB</option>
+            <option value="768">768 GB</option>
+            <option value="180">180 GB</option>
+            <option value="240">240 GB</option>
+            <option value="8">8 GB</option>
+        </select>
+
+        <label for="gpu_brand">GPU Brand:</label>
+        <select name="gpu_brand" id="gpu_brand">
+            <option value="Intel">Intel</option>
+            <option value="AMD">AMD</option>
+            <option value="Nvidia">Nvidia</option>
+        </select>
+
+        <label for="os">OS:</label>
+        <select name="os" id="os">
+            <option value="Mac">Mac</option>
+            <option value="Others/No OS/Linux">Others/No OS/Linux</option>
+            <option value="Windows">Windows</option>
+        </select>
+
+        <button class="predict_btn" type="submit" alt="Predict Price">
+            <i>P</i>
+            <i>r</i>
+            <i>e</i>
+            <i>d</i>
+            <i>i</i>
+            <i>c</i>
+            <i>t</i>
+            <i>P</i>
+            <i>r</i>
+            <i>i</i>
+            <i>c</i>
+            <i>e</i>
+        </button>
+    </form>
+    {% if prediction_result %}
+    <div class="prediction-box">
+        <p>The expected price of the laptop is {{ prediction_result }}</p>
+    </div>
+    {% endif %}
+</body>
+
+</html>
